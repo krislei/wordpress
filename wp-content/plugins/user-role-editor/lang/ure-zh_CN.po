@@ -1,0 +1,697 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: User Role Editor 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-01-28 16:24+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: 神绮 <magic@xynu.net>\n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../includes/settings-template.php:67
+#: ../includes/settings-template.php:97
+msgid "Save"
+msgstr "保存"
+
+#: ../includes/class-user-role-editor.php:175
+#: ../includes/class-user-role-editor.php:177
+msgid "You do not have permission to edit this user."
+msgstr "你没有权限编辑这个账户"
+
+#: ../includes/class-user-role-editor.php:318
+msgid "Capabilities"
+msgstr "动作"
+
+#: ../includes/class-user-role-editor.php:411
+msgid "Settings"
+msgstr "设置"
+
+#: ../includes/class-user-role-editor.php:424
+#: ../includes/class-ure-lib.php:2219
+msgid "Changelog"
+msgstr "更新日志"
+
+#: ../includes/class-user-role-editor.php:446
+msgid "Overview"
+msgstr "概述"
+
+#: ../includes/class-user-role-editor.php:455
+#: ../includes/class-user-role-editor.php:483
+#: ../includes/class-user-role-editor.php:732
+#: ../includes/class-ure-lib.php:225
+msgid "User Role Editor"
+msgstr "用户权限编辑"
+
+#: ../includes/class-user-role-editor.php:538
+#: ../includes/class-user-role-editor.php:555
+msgid "User Role Editor options are updated"
+msgstr "用户角色编辑器选项已经更新"
+
+#: ../includes/class-user-role-editor.php:563
+msgid "You do not have sufficient permissions to manage options for User Role Editor."
+msgstr "您没有足够的权限来管理用户角色"
+
+#: ../includes/class-user-role-editor.php:623
+msgid "Insufficient permissions to work with User Role Editor"
+msgstr "没有足够的权限使用用户权限编辑"
+
+#: ../includes/class-user-role-editor.php:677
+msgid "Select All"
+msgstr "全选"
+
+#: ../includes/class-user-role-editor.php:678
+msgid "Unselect All"
+msgstr "取消全选"
+
+#: ../includes/class-user-role-editor.php:679
+msgid "Reverse"
+msgstr "反选"
+
+#: ../includes/class-user-role-editor.php:680
+msgid "Update"
+msgstr "更新"
+
+#: ../includes/class-user-role-editor.php:681
+msgid "Please confirm permissions update"
+msgstr "请确认权限更新"
+
+#: ../includes/class-user-role-editor.php:682
+msgid "Add New Role"
+msgstr "增加一个用户组"
+
+#: ../includes/class-user-role-editor.php:683
+msgid " Role name (ID) can not be empty!"
+msgstr "用户组名称（ID）不能为空"
+
+#: ../includes/class-user-role-editor.php:684
+msgid " Role name (ID) must contain latin characters, digits, hyphens or underscore only!"
+msgstr "用户组名称（ID）只能包含拉丁字符，数字，字符或下划线"
+
+#: ../includes/class-user-role-editor.php:685
+msgid " WordPress does not support numeric Role name (ID). Add latin characters to it."
+msgstr "WordPress不支持纯数字角色名称（ID）。请增加拉丁字符"
+
+#: ../includes/class-user-role-editor.php:686
+msgid "Add Role"
+msgstr "增加用户组"
+
+#: ../includes/class-user-role-editor.php:687
+msgid "Delete Role"
+msgstr "删除用户组"
+
+#: ../includes/class-user-role-editor.php:688
+msgid "Cancel"
+msgstr "取消"
+
+#: ../includes/class-user-role-editor.php:689
+msgid "增加动作"
+msgstr ""
+
+#: ../includes/class-user-role-editor.php:690
+#: ../includes/class-user-role-editor.php:699
+msgid "Delete Capability"
+msgstr "删除动作"
+
+#: ../includes/class-user-role-editor.php:691
+msgid "Reset"
+msgstr "重置"
+
+#: ../includes/class-user-role-editor.php:692
+msgid "DANGER! Resetting will restore default settings from WordPress Core."
+msgstr "危险！重置将恢复默认设置"
+
+#: ../includes/class-user-role-editor.php:693
+msgid "If any plugins have changed capabilities in any way upon installation (such as S2Member, WooCommerce, and many more), those capabilities will be DELETED!"
+msgstr "如果其他任何插件已经以任何方式改变了用户权限（如s2member，WooCommerce等等），这些功能将被删除！"
+
+#: ../includes/class-user-role-editor.php:694
+msgid "For more information on how to undo changes and restore plugin capabilities go to"
+msgstr "更多关于如何撤消和重置插件的信息"
+
+#: ../includes/class-user-role-editor.php:696
+msgid "Continue?"
+msgstr "继续？"
+
+#: ../includes/class-user-role-editor.php:697
+msgid "Default Role"
+msgstr "默认用户组"
+
+#: ../includes/class-user-role-editor.php:698
+msgid "Set New Default Role"
+msgstr "设置新的默认用户组"
+
+#: ../includes/class-user-role-editor.php:700
+msgid "Warning! Be careful - removing critical capability could crash some plugin or other custom code"
+msgstr "警告！谨慎 - 删除关键动作可能导致一些插件或其他自定义代码失效"
+
+#: ../includes/class-user-role-editor.php:701
+msgid " Capability name (ID) can not be empty!"
+msgstr "动作名称（ID）不能为空！"
+
+#: ../includes/class-user-role-editor.php:702
+msgid " Capability name (ID) must contain latin characters, digits, hyphens or underscore only!"
+msgstr "动作名称（ID）只能包含拉丁字符，数字，字符或下划线"
+
+#: ../includes/class-user-role-editor.php:735
+#: ../includes/class-user-role-editor.php:763
+msgid "Other Roles"
+msgstr "其他用户组"
+
+#: ../includes/class-user-role-editor.php:745
+msgid "Edit"
+msgstr "编辑"
+
+#: ../includes/class-user-role-editor.php:749
+msgid "Add Capability"
+msgstr "增加动作"
+
+#: ../includes/ure-role-edit.php:17
+msgid "Select Role and change its capabilities:"
+msgstr "选择用户组并修改动作："
+
+#: ../includes/ure-role-edit.php:30
+#: ../includes/ure-user-edit.php:53
+msgid "Show capabilities in human readable form"
+msgstr "在用户可见表单中显示动作"
+
+#: ../includes/ure-role-edit.php:40
+#: ../includes/ure-user-edit.php:63
+#: ../includes/class-ure-screen-help.php:21
+msgid "Show deprecated capabilities"
+msgstr "显示不可用动作"
+
+#: ../includes/ure-role-edit.php:44
+msgid "If checked, then apply action to ALL sites of this Network"
+msgstr "如果选中，此操作适用于网络中的所有站点"
+
+#: ../includes/ure-role-edit.php:56
+msgid "Apply to All Sites"
+msgstr "适用于所有站点"
+
+#: ../includes/ure-role-edit.php:63
+#: ../includes/ure-user-edit.php:109
+msgid "Core capabilities:"
+msgstr "核心动作："
+
+#: ../includes/ure-role-edit.php:65
+#: ../includes/ure-user-edit.php:111
+msgid "Quick filter:"
+msgstr "快速过滤"
+
+#: ../includes/ure-role-edit.php:83
+#: ../includes/ure-user-edit.php:130
+msgid "Custom capabilities:"
+msgstr "自定义动作："
+
+#: ../includes/class-ure-lib.php:143
+msgid "Error: wrong request"
+msgstr "错误：错误的请求"
+
+#: ../includes/class-ure-lib.php:175
+msgid "Role name (ID): "
+msgstr "用户组名称（ID）："
+
+#: ../includes/class-ure-lib.php:177
+msgid "Display Role Name: "
+msgstr "显示用户组名称："
+
+#: ../includes/class-ure-lib.php:179
+msgid "Make copy of: "
+msgstr "复制："
+
+#: ../includes/class-ure-lib.php:186
+msgid "Select Role:"
+msgstr "选择用户组："
+
+#: ../includes/class-ure-lib.php:201
+msgid "Delete:"
+msgstr "删除："
+
+#: ../includes/class-ure-lib.php:208
+msgid "Capability name (ID): "
+msgstr "动作名称（ID）："
+
+#: ../includes/class-ure-lib.php:275
+msgid "User Role Editor Pro: extended functionality, no advertisement - from $29."
+msgstr "用户权限编辑专业版：扩展功能，没有广告 - $29"
+
+#: ../includes/class-ure-lib.php:322
+msgid "Error: "
+msgstr "错误："
+
+#: ../includes/class-ure-lib.php:322
+msgid "Role"
+msgstr "用户组"
+
+#: ../includes/class-ure-lib.php:322
+msgid "does not exist"
+msgstr "不存在"
+
+#: ../includes/class-ure-lib.php:365
+msgid "Role is updated successfully"
+msgstr "用户组已成功更新"
+
+#: ../includes/class-ure-lib.php:367
+msgid "Roles are updated for all network"
+msgstr "用户组已经对全网络更新"
+
+#: ../includes/class-ure-lib.php:373
+msgid "Error occured during role(s) update"
+msgstr "用户组更新时出错"
+
+#: ../includes/class-ure-lib.php:380
+msgid "User capabilities are updated successfully"
+msgstr "用户动作已成功更新"
+
+#: ../includes/class-ure-lib.php:385
+msgid "Error occured during user update"
+msgstr "用户更新时出错"
+
+#: ../includes/class-ure-lib.php:440
+msgid "User Roles are restored to WordPress default values. "
+msgstr "用户组已经重置为Wordpress默认变量"
+
+#: ../includes/class-ure-lib.php:1330
+msgid "Help"
+msgstr "帮助"
+
+#: ../includes/class-ure-lib.php:1674
+msgid "Error is occur. Please check the log file."
+msgstr "出错了。请检查日志文件。"
+
+#: ../includes/class-ure-lib.php:1717
+msgid "Error: Role ID must contain latin characters, digits, hyphens or underscore only!"
+msgstr "错误：用户组（ID）只能包含拉丁字符，数字，字符或下划线！"
+
+#: ../includes/class-ure-lib.php:1721
+msgid "Error: WordPress does not support numeric Role name (ID). Add latin characters to it."
+msgstr "错误：Wordpress不支持纯数字用户组（Id）。请增加拉丁字母。"
+
+#: ../includes/class-ure-lib.php:1736
+#, php-format
+msgid "Role %s exists already"
+msgstr "用户组 %s 已存在"
+
+#: ../includes/class-ure-lib.php:1751
+msgid "Error is encountered during new role create operation"
+msgstr "创建新用户组时出错"
+
+#: ../includes/class-ure-lib.php:1753
+#, php-format
+msgid "Role %s is created successfully"
+msgstr "用户组 %s 已经成功创建"
+
+#: ../includes/class-ure-lib.php:1822
+msgid "Error encountered during role delete operation"
+msgstr "删除新用户组时出错"
+
+#: ../includes/class-ure-lib.php:1824
+msgid "Unused roles are deleted successfully"
+msgstr "未使用的用户组已经成功删除"
+
+#: ../includes/class-ure-lib.php:1826
+#, php-format
+msgid "Role %s is deleted successfully"
+msgstr "用户组 %s 已经成功删除"
+
+#: ../includes/class-ure-lib.php:1851
+msgid "Error encountered during default role change operation"
+msgstr "修改默认用户组时出错"
+
+#: ../includes/class-ure-lib.php:1857
+#, php-format
+msgid "Default role for new users is set to %s successfully"
+msgstr "默认用户组已经成功配置给新用户 %s "
+
+#: ../includes/class-ure-lib.php:1876
+msgid "Editor"
+msgstr "编辑"
+
+#: ../includes/class-ure-lib.php:1877
+msgid "Author"
+msgstr "作者"
+
+#: ../includes/class-ure-lib.php:1878
+msgid "Contributor"
+msgstr "投稿者"
+
+#: ../includes/class-ure-lib.php:1879
+msgid "Subscriber"
+msgstr "订阅者"
+
+#: ../includes/class-ure-lib.php:1881
+msgid "Switch themes"
+msgstr "更换主题"
+
+#: ../includes/class-ure-lib.php:1882
+msgid "Edit themes"
+msgstr "编辑主题"
+
+#: ../includes/class-ure-lib.php:1883
+msgid "Activate plugins"
+msgstr "启动插件"
+
+#: ../includes/class-ure-lib.php:1884
+msgid "Edit plugins"
+msgstr "编辑插件"
+
+#: ../includes/class-ure-lib.php:1885
+msgid "Edit users"
+msgstr "编辑用户"
+
+#: ../includes/class-ure-lib.php:1886
+msgid "Edit files"
+msgstr "编辑文件"
+
+#: ../includes/class-ure-lib.php:1887
+msgid "Manage options"
+msgstr "管理设置"
+
+#: ../includes/class-ure-lib.php:1888
+msgid "Moderate comments"
+msgstr "审核评论"
+
+#: ../includes/class-ure-lib.php:1889
+msgid "Manage categories"
+msgstr "管理文章分类"
+
+#: ../includes/class-ure-lib.php:1890
+msgid "Manage links"
+msgstr "管理友情链接"
+
+#: ../includes/class-ure-lib.php:1891
+msgid "Upload files"
+msgstr "上传文件"
+
+#: ../includes/class-ure-lib.php:1892
+msgid "Import"
+msgstr "输入"
+
+#: ../includes/class-ure-lib.php:1893
+msgid "Unfiltered html"
+msgstr "不过滤html"
+
+#: ../includes/class-ure-lib.php:1894
+msgid "Edit posts"
+msgstr "编辑自己的文章"
+
+#: ../includes/class-ure-lib.php:1895
+msgid "Edit others posts"
+msgstr "编辑他人的文章"
+
+#: ../includes/class-ure-lib.php:1896
+msgid "Edit published posts"
+msgstr "编辑已发布的文章"
+
+#: ../includes/class-ure-lib.php:1897
+msgid "Publish posts"
+msgstr "发布文章"
+
+#: ../includes/class-ure-lib.php:1898
+msgid "Edit pages"
+msgstr "编辑自己的页面"
+
+#: ../includes/class-ure-lib.php:1899
+msgid "Read"
+msgstr "阅读"
+
+#: ../includes/class-ure-lib.php:1900
+msgid "Level 10"
+msgstr "Level 10"
+
+#: ../includes/class-ure-lib.php:1901
+msgid "Level 9"
+msgstr "Level 9"
+
+#: ../includes/class-ure-lib.php:1902
+msgid "Level 8"
+msgstr "Level 8"
+
+#: ../includes/class-ure-lib.php:1903
+msgid "Level 7"
+msgstr "Level 7"
+
+#: ../includes/class-ure-lib.php:1904
+msgid "Level 6"
+msgstr "Level 6"
+
+#: ../includes/class-ure-lib.php:1905
+msgid "Level 5"
+msgstr "Level 5"
+
+#: ../includes/class-ure-lib.php:1906
+msgid "Level 4"
+msgstr "Level 4"
+
+#: ../includes/class-ure-lib.php:1907
+msgid "Level 3"
+msgstr "Level 3"
+
+#: ../includes/class-ure-lib.php:1908
+msgid "Level 2"
+msgstr "Level 2"
+
+#: ../includes/class-ure-lib.php:1909
+msgid "Level 1"
+msgstr "Level 1"
+
+#: ../includes/class-ure-lib.php:1910
+msgid "Level 0"
+msgstr "Level 0"
+
+#: ../includes/class-ure-lib.php:1911
+msgid "Edit others pages"
+msgstr "编辑他人的页面"
+
+#: ../includes/class-ure-lib.php:1912
+msgid "Edit published pages"
+msgstr "编辑已发布的页面"
+
+#: ../includes/class-ure-lib.php:1913
+msgid "Publish pages"
+msgstr "发布页面"
+
+#: ../includes/class-ure-lib.php:1914
+msgid "Delete pages"
+msgstr "删除页面"
+
+#: ../includes/class-ure-lib.php:1915
+msgid "Delete others pages"
+msgstr "删除他人的页面"
+
+#: ../includes/class-ure-lib.php:1916
+msgid "Delete published pages"
+msgstr "删除已发布的页面"
+
+#: ../includes/class-ure-lib.php:1917
+msgid "Delete posts"
+msgstr "删除自己的文章"
+
+#: ../includes/class-ure-lib.php:1918
+msgid "Delete others posts"
+msgstr "删除他人的文章"
+
+#: ../includes/class-ure-lib.php:1919
+msgid "Delete published posts"
+msgstr "删除已发布的文章"
+
+#: ../includes/class-ure-lib.php:1920
+msgid "Delete private posts"
+msgstr "删除加密文章"
+
+#: ../includes/class-ure-lib.php:1921
+msgid "Edit private posts"
+msgstr "编辑加密文章"
+
+#: ../includes/class-ure-lib.php:1922
+msgid "Read private posts"
+msgstr "阅读加密文章"
+
+#: ../includes/class-ure-lib.php:1923
+msgid "Delete private pages"
+msgstr "删除加密页面"
+
+#: ../includes/class-ure-lib.php:1924
+msgid "Edit private pages"
+msgstr "编辑加密页面"
+
+#: ../includes/class-ure-lib.php:1925
+msgid "Read private pages"
+msgstr "阅读加密页面"
+
+#: ../includes/class-ure-lib.php:1926
+msgid "Delete users"
+msgstr "删除用户"
+
+#: ../includes/class-ure-lib.php:1927
+msgid "Create users"
+msgstr "新建用户"
+
+#: ../includes/class-ure-lib.php:1928
+msgid "Unfiltered upload"
+msgstr "不过滤上传"
+
+#: ../includes/class-ure-lib.php:1929
+msgid "Edit dashboard"
+msgstr "编辑控制面板"
+
+#: ../includes/class-ure-lib.php:1930
+msgid "Update plugins"
+msgstr "更新插件"
+
+#: ../includes/class-ure-lib.php:1931
+msgid "Delete plugins"
+msgstr "删除插件"
+
+#: ../includes/class-ure-lib.php:1932
+msgid "Install plugins"
+msgstr "安装插件"
+
+#: ../includes/class-ure-lib.php:1933
+msgid "Update themes"
+msgstr "更新主题"
+
+#: ../includes/class-ure-lib.php:1934
+msgid "Install themes"
+msgstr "安装主题"
+
+#: ../includes/class-ure-lib.php:1935
+msgid "Update core"
+msgstr "更新核心"
+
+#: ../includes/class-ure-lib.php:1936
+msgid "List users"
+msgstr "用户列表"
+
+#: ../includes/class-ure-lib.php:1937
+msgid "Remove users"
+msgstr "删除用户"
+
+#: ../includes/class-ure-lib.php:1938
+msgid "Add users"
+msgstr "增加用户"
+
+#: ../includes/class-ure-lib.php:1939
+msgid "Promote users"
+msgstr "升级用户"
+
+#: ../includes/class-ure-lib.php:1940
+msgid "Edit theme options"
+msgstr "编辑主题设置"
+
+#: ../includes/class-ure-lib.php:1941
+msgid "Delete themes"
+msgstr "删除主题"
+
+#: ../includes/class-ure-lib.php:1942
+msgid "Export"
+msgstr "输出"
+
+#: ../includes/class-ure-lib.php:2052
+msgid "Error: Capability name must contain latin characters and digits only!"
+msgstr "错误：动作名称只能包含拉丁字符和数字！"
+
+#: ../includes/class-ure-lib.php:2065
+#, php-format
+msgid "Capability %s is added successfully"
+msgstr "动作 %s 已经被成功添加"
+
+#: ../includes/class-ure-lib.php:2067
+#, php-format
+msgid "Capability %s exists already"
+msgstr "动作 %s 已存在"
+
+#: ../includes/class-ure-lib.php:2092
+#, php-format
+msgid "Error! You do not have permission to delete this capability: %s!"
+msgstr "错误！你没有权限删除这个动作： %s ！"
+
+#: ../includes/class-ure-lib.php:2111
+#, php-format
+msgid "Capability %s is removed successfully"
+msgstr "动作 %s 已经被成功删除"
+
+#: ../includes/class-ure-lib.php:2216
+msgid "Author's website"
+msgstr "作者的站点"
+
+#: ../includes/class-ure-lib.php:2217
+msgid "Plugin webpage"
+msgstr "插件网址"
+
+#: ../includes/class-ure-lib.php:2218
+msgid "Plugin download"
+msgstr "插件下载"
+
+#: ../includes/class-ure-lib.php:2220
+msgid "FAQ"
+msgstr "常见问题解答"
+
+#: ../includes/class-ure-lib.php:2263
+msgid "None"
+msgstr "None"
+
+#: ../includes/class-ure-lib.php:2290
+msgid "Delete All Unused Roles"
+msgstr "删除所有未使用的用户组"
+
+#: ../includes/class-ure-lib.php:2314
+msgid "&mdash; No role for this site &mdash;"
+msgstr "&mdash; 这个站点没有用户组 &mdash;"
+
+#: ../includes/ure-user-edit.php:31
+msgid "Network Super Admin"
+msgstr "网络超级管理员"
+
+#: ../includes/ure-user-edit.php:34
+msgid "Change capabilities for user"
+msgstr "改变用户的动作"
+
+#: ../includes/ure-user-edit.php:71
+msgid "Primary Role:"
+msgstr "首选用户组："
+
+#: ../includes/ure-user-edit.php:81
+msgid "bbPress Role:"
+msgstr "bbpress用户组"
+
+#: ../includes/ure-user-edit.php:91
+msgid "Other Roles:"
+msgstr "其他用户组"
+
+#: ../includes/class-ure-screen-help.php:15
+msgid "Show Administrator role at User Role Editor"
+msgstr "在用户权限编辑显示管理员用户组"
+
+#: ../includes/class-ure-screen-help.php:16
+msgid "turn this option on in order to make the \"Administrator\" role available at the User Role Editor roles selection drop-down list. It is hidden by default for security reasons."
+msgstr "开启此选项为了让\"管理员\"用户组可以在用户权限编辑用户组选择下拉菜单。为了安全默认是隐藏的。"
+
+#: ../includes/class-ure-screen-help.php:18
+msgid "Show capabilities in the human readable form"
+msgstr "在用户可见表单中显示动作"
+
+#: ../includes/class-ure-screen-help.php:19
+msgid "automatically converts capability names from the technical form for internal use like \"edit_others_posts\" to more user friendly form, e.g. \"Edit others posts\"."
+msgstr "自动把动作名称从技术形式，类似\"edit_others_posts\"转换成友好的形式，比如\"编辑他人的文章\" "
+
+#: ../includes/class-ure-screen-help.php:22
+msgid "Capabilities like \"level_0\", \"level_1\" are deprecated and are not used by WordPress. They are left at the user roles for the compatibility purpose with the old themes and plugins code. Turning on this option will show those deprecated capabilities."
+msgstr "像\"level_0\", \"level_1\"的动作是过时的并且不被Wordpress使用的。为了兼容旧的主题和插件代码被保留在用户组里。开启此选项会显示那些过时的动作"
+
+#: ../includes/class-ure-screen-help.php:27
+msgid "Allow create, edit and delete users to not super-admininstrators"
+msgstr "允许非超级管理员创建、编辑和删除用户"
+
+#: ../includes/class-ure-screen-help.php:28
+msgid "Super administrator only may create, edit and delete users under WordPress multi-site. Turn this option on in order to remove this limitation."
+msgstr "在多站点模式下超级管理员只能创建、编辑和删除用户。开启此选项恶意去除这个限制。"
+

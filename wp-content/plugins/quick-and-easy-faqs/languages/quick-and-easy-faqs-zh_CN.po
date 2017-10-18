@@ -1,0 +1,391 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Hseyin Berberolu
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: quick-and-easy-faqs简体中文\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wp-favorite-posts\n"
+"POT-Creation-Date: 2015-11-04 11:51+0800\n"
+"PO-Revision-Date: 2015-11-04 12:10+0800\n"
+"Last-Translator: 倡萌@WordPress大学 <admin@cmhello.com>\n"
+"Language-Team: 倡萌@WordPress大学 <admin@cmhello.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/class-quick-and-easy-faqs-admin.php:97
+msgctxt "Post Type General Name"
+msgid "FAQs"
+msgstr "常见问题"
+
+#: ../admin/class-quick-and-easy-faqs-admin.php:98
+msgctxt "Post Type Singular Name"
+msgid "FAQ"
+msgstr "常见问题"
+
+#: ../admin/class-quick-and-easy-faqs-admin.php:99
+#: ../admin/class-quick-and-easy-faqs-admin.php:100
+msgid "FAQs"
+msgstr "常见问题"
+
+#: ../admin/class-quick-and-easy-faqs-admin.php:101
+msgid "Parent FAQ:"
+msgstr "父级问题："
+
+#: ../admin/class-quick-and-easy-faqs-admin.php:102
+msgid "All FAQs"
+msgstr "所有问题"
+
+#: ../admin/class-quick-and-easy-faqs-admin.php:103
+msgid "Add New FAQ"
+msgstr "添加新问题"
+
+#: ../admin/class-quick-and-easy-faqs-admin.php:104
+msgid "Add New"
+msgstr "新建问题"
+
+#: ../admin/class-quick-and-easy-faqs-admin.php:105
+msgid "New FAQ"
+msgstr "新问题"
+
+#: ../admin/class-quick-and-easy-faqs-admin.php:106
+msgid "Edit FAQ"
+msgstr "编辑问题"
+
+#: ../admin/class-quick-and-easy-faqs-admin.php:107
+msgid "Update FAQ"
+msgstr "更新问题"
+
+#: ../admin/class-quick-and-easy-faqs-admin.php:108
+msgid "View FAQ"
+msgstr "查看问题"
+
+#: ../admin/class-quick-and-easy-faqs-admin.php:109
+msgid "Search FAQ"
+msgstr "搜索问题"
+
+#: ../admin/class-quick-and-easy-faqs-admin.php:110
+msgid "Not found"
+msgstr "未找到项目"
+
+#: ../admin/class-quick-and-easy-faqs-admin.php:111
+msgid "Not found in Trash"
+msgstr "回收站未找到项目"
+
+#: ../admin/class-quick-and-easy-faqs-admin.php:115
+msgid "faq"
+msgstr "常见问题"
+
+#: ../admin/class-quick-and-easy-faqs-admin.php:116
+msgid "Frequently Asked Questions"
+msgstr "经常问的问题"
+
+#: ../admin/class-quick-and-easy-faqs-admin.php:146
+msgctxt "Taxonomy General Name"
+msgid "FAQ Groups"
+msgstr "常见问题分组"
+
+#: ../admin/class-quick-and-easy-faqs-admin.php:147
+msgctxt "Taxonomy Singular Name"
+msgid "FAQ Group"
+msgstr "常见问题分组"
+
+#: ../admin/class-quick-and-easy-faqs-admin.php:148
+msgid "FAQ Group"
+msgstr "常见问题分组"
+
+#: ../admin/class-quick-and-easy-faqs-admin.php:149
+msgid "All FAQ Groups"
+msgstr "所有常见问题分组"
+
+#: ../admin/class-quick-and-easy-faqs-admin.php:150
+msgid "Parent FAQ Group"
+msgstr "父级常见问题分组"
+
+#: ../admin/class-quick-and-easy-faqs-admin.php:151
+msgid "Parent FAQ Group:"
+msgstr "父级常见问题分组："
+
+#: ../admin/class-quick-and-easy-faqs-admin.php:152
+msgid "New FAQ Group Name"
+msgstr "新的常见问题分组名称"
+
+#: ../admin/class-quick-and-easy-faqs-admin.php:153
+msgid "Add New FAQ Group"
+msgstr "新建常见问题分组"
+
+#: ../admin/class-quick-and-easy-faqs-admin.php:154
+msgid "Edit FAQ Group"
+msgstr "编辑常见问题分组"
+
+#: ../admin/class-quick-and-easy-faqs-admin.php:155
+msgid "Update FAQ Group"
+msgstr "更新常见问题分组"
+
+#: ../admin/class-quick-and-easy-faqs-admin.php:156
+msgid "View FAQ Group"
+msgstr "查看常见问题分组"
+
+#: ../admin/class-quick-and-easy-faqs-admin.php:157
+msgid "Separate FAQ Groups with commas"
+msgstr "使用半角逗号分隔多个常见问题分组"
+
+#: ../admin/class-quick-and-easy-faqs-admin.php:158
+msgid "Add or remove FAQ Groups"
+msgstr "添加或删除常见问题分组"
+
+#: ../admin/class-quick-and-easy-faqs-admin.php:159
+msgid "Choose from the most used"
+msgstr "从使用次数最多的进行选择"
+
+#: ../admin/class-quick-and-easy-faqs-admin.php:160
+msgid "Popular FAQ Groups"
+msgstr "最受欢迎的常见问题分组"
+
+#: ../admin/class-quick-and-easy-faqs-admin.php:161
+msgid "Search FAQ Groups"
+msgstr "搜索常见问题分组"
+
+#: ../admin/class-quick-and-easy-faqs-admin.php:162
+msgid "Not Found"
+msgstr "未找到项目"
+
+#: ../admin/class-quick-and-easy-faqs-admin.php:189
+#: ../admin/class-quick-and-easy-faqs-admin.php:207
+msgid "Quick and Easy FAQs Settings"
+msgstr "Quick and Easy FAQs 设置"
+
+#: ../admin/class-quick-and-easy-faqs-admin.php:190
+#: ../public/class-quick-and-easy-faqs-public.php:556
+msgid "Quick and Easy FAQs"
+msgstr "Quick and Easy FAQs"
+
+#: ../admin/class-quick-and-easy-faqs-admin.php:238
+msgid "FAQs Toggle Styles"
+msgstr "Quick and Easy FAQs 切换样式"
+
+#: ../admin/class-quick-and-easy-faqs-admin.php:245
+msgid "FAQs Common Styles"
+msgstr "FAQs 常见样式"
+
+#: ../admin/class-quick-and-easy-faqs-admin.php:255
+msgid "FAQs toggle colors"
+msgstr "FAQs 切换颜色"
+
+#: ../admin/class-quick-and-easy-faqs-admin.php:262
+msgid "Choose custom colors to apply colors provided in options below."
+msgstr "选择“自定义颜色”来应用在下面选项中设置的颜色"
+
+#: ../admin/class-quick-and-easy-faqs-admin.php:264
+msgid "Default Colors"
+msgstr "默认颜色"
+
+#: ../admin/class-quick-and-easy-faqs-admin.php:265
+msgid "Custom Colors"
+msgstr "自定义颜色"
+
+#: ../admin/class-quick-and-easy-faqs-admin.php:271
+msgid "Question text color"
+msgstr "问题文本颜色"
+
+#: ../admin/class-quick-and-easy-faqs-admin.php:282
+msgid "Question text color on mouse over"
+msgstr "问题文本在鼠标悬停时的颜色"
+
+#: ../admin/class-quick-and-easy-faqs-admin.php:293
+msgid "Question background color"
+msgstr "问题背景颜色"
+
+#: ../admin/class-quick-and-easy-faqs-admin.php:304
+msgid "Question background color on mouse over"
+msgstr "问题在鼠标悬停时的背景颜色"
+
+#: ../admin/class-quick-and-easy-faqs-admin.php:315
+msgid "Answer text color"
+msgstr "回答文本颜色"
+
+#: ../admin/class-quick-and-easy-faqs-admin.php:326
+msgid "Answer background color"
+msgstr "回答背景颜色"
+
+#: ../admin/class-quick-and-easy-faqs-admin.php:337
+msgid "Toggle Border color"
+msgstr "切换边框颜色"
+
+#: ../admin/class-quick-and-easy-faqs-admin.php:348
+msgid "Custom CSS"
+msgstr "自定义CSS"
+
+#: ../admin/class-quick-and-easy-faqs-admin.php:367
+msgid ""
+"These settings only applies to FAQs with toggle style. As FAQs with list "
+"style use colors inherited from currently active theme."
+msgstr ""
+"这些设置仅适用于 FAQs 的切换样式。至于 FAQs 的列表样式则继承当前主题使用的颜"
+"色。"
+
+#: ../admin/class-quick-and-easy-faqs-admin.php:389
+#: ../admin/class-quick-and-easy-faqs-admin.php:404
+#: ../admin/class-quick-and-easy-faqs-admin.php:427
+msgid "Field id is missing!"
+msgstr "字段ID缺失！"
+
+#: ../admin/class-quick-and-easy-faqs-admin.php:438
+msgid "Settings"
+msgstr "设置"
+
+#: ../public/class-quick-and-easy-faqs-public.php:276
+#: ../public/class-quick-and-easy-faqs-public.php:357
+msgid "Back to Index"
+msgstr "返回首页"
+
+#: ../public/class-quick-and-easy-faqs-public.php:489
+msgid "All"
+msgstr "所有"
+
+#: ../public/class-quick-and-easy-faqs-public.php:557
+msgid "Quick and Easy FAQs Plugin"
+msgstr "Quick and Easy FAQs 插件"
+
+#: ../public/class-quick-and-easy-faqs-public.php:559
+msgid "Content"
+msgstr "内容"
+
+#: ../public/class-quick-and-easy-faqs-public.php:563
+msgid "Display Style"
+msgstr "显示样式"
+
+#: ../public/class-quick-and-easy-faqs-public.php:574
+msgid "Display FAQs in Groups"
+msgstr "分组显示常见问题"
+
+#: ../public/class-quick-and-easy-faqs-public.php:577
+msgid "Yes"
+msgstr "是"
+
+#: ../public/class-quick-and-easy-faqs-public.php:578
+msgid "No"
+msgstr "否"
+
+#~ msgid "&larr; Previous Entries"
+#~ msgstr "&larr; 之前的文章"
+
+#~ msgid "Next Entries &rarr;"
+#~ msgstr "之后的文章 &rarr;"
+
+#~ msgid "WP Favorite Posts"
+#~ msgstr "WP Favorite Posts"
+
+#~ msgid "Cheatin&#8217; uh?"
+#~ msgstr "Cheatin&#8217; uh?"
+
+#~ msgid "Options saved."
+#~ msgstr "设置已保存"
+
+#~ msgid "WP Favorite Posts Configuration"
+#~ msgstr "WP Favorite Posts 设置"
+
+#~ msgid "Click to open/close"
+#~ msgstr "点击打开/关闭"
+
+#~ msgid "Do you use it ?"
+#~ msgstr "您使用它吗？"
+
+#~ msgid "Options"
+#~ msgstr "选项"
+
+#~ msgid "Only <strong>registered users</strong> can favorite"
+#~ msgstr "只有 <strong>已注册的用户</strong> 才可以收藏"
+
+#~ msgid "Auto show favorite link"
+#~ msgstr "自动显示收藏链接"
+
+#~ msgid "Before Link Image"
+#~ msgstr "链接前面的图片"
+
+#~ msgid "Favorite post per page"
+#~ msgstr "每页显示的文章数"
+
+#~ msgid "Most favorited posts statics"
+#~ msgstr "统计收藏最多的文章"
+
+#~ msgid "Update options &raquo;"
+#~ msgstr "更新选项 &raquo;"
+
+#~ msgid "Text for add link"
+#~ msgstr "添加收藏的提示"
+
+#~ msgid "Text for added"
+#~ msgstr "已添加收藏的提示"
+
+#~ msgid "Text for remove link"
+#~ msgstr "移除收藏的提示"
+
+#~ msgid "Text for removed"
+#~ msgstr "已移除的提示"
+
+#~ msgid "Text for clear link"
+#~ msgstr "清除收藏的提示"
+
+#~ msgid "Text for cleared"
+#~ msgstr "收藏已清除的提示"
+
+#~ msgid "Text for favorites are empty"
+#~ msgstr "收藏为空的提示"
+
+#~ msgid "Text for [remove] link"
+#~ msgstr "移除收藏的提示"
+
+#~ msgid "Text for favorites saved to cookies"
+#~ msgstr "收藏已保存到 Cookie 的提示文本"
+
+#~ msgid "Text for \"only registered users can favorite\" error message"
+#~ msgstr "“只有已注册的用户才能收藏”的提示文本"
+
+#~ msgid "Advanced Settings"
+#~ msgstr "高级设置"
+
+#~ msgid "Help"
+#~ msgstr "帮助"
+
+#~ msgid "Title:"
+#~ msgstr "标题："
+
+#~ msgid "Number of posts to show:"
+#~ msgstr "要显示的文章数："
+
+#~ msgid "You have not any favorite posts now."
+#~ msgstr "你还没有收藏任何文章哦"
+
+#~ msgid "你还没有收藏任何文章哦"
+#~ msgstr "You have not any favorite posts now."
+
+#~ msgid "http://birazkisisel.com/projects/wp-favorite-posts/"
+#~ msgstr "http://birazkisisel.com/projects/wp-favorite-posts/"
+
+#~ msgid ""
+#~ "Allows users to add favorite posts. This plugin use cookies for saving "
+#~ "data so unregistered users can favorite a post. Put <code>&lt;?php "
+#~ "wpfp_link(); ?&gt;</code> where ever you want on a single post. Then "
+#~ "create a page which includes that text : <code>{{wp-favorite-posts}}</"
+#~ "code> That's it!"
+#~ msgstr ""
+#~ "允许用户收藏文章。这个插件通过 cookies 来保存数据，所以未注册的用户可以收"
+#~ "藏文章。添加代码 <code>&lt;?php wpfp_link(); ?&gt;</code>到文章页面中你想"
+#~ "显示的地方，然后创建一个页面包含本文 <code>{{wp-favorite-posts}}</code> 就"
+#~ "可以了。"
+
+#~ msgid "HÃ¼seyin BerberoÄlu"
+#~ msgstr "HÃ¼seyin BerberoÄlu"
+
+#~ msgid "http://birazkisisel.com"
+#~ msgstr "http://birazkisisel.com"

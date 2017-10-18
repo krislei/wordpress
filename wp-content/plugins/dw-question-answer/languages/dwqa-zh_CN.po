@@ -1,0 +1,3272 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: zh_CN\n"
+"POT-Creation-Date: 2016-04-05 21:10+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: 倡萌@WordPress大学 <admin@cmhello.com>\n"
+"Language-Team: 倡萌@WordPress大学 <admin@cmhello.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../dw-question-answer.php:102
+msgid "Next"
+msgstr "下一页"
+
+#: ../dw-question-answer.php:103
+msgid "Prev"
+msgstr "上一页"
+
+#: ../dw-question-answer.php:105
+msgid "Please enter your question"
+msgstr "请输入你的问题"
+
+#: ../dw-question-answer.php:106
+msgid "Your question must be at least 2 characters in length"
+msgstr "你的问题至少要包含 2 个以上的字符"
+
+#: ../dw-question-answer.php:107
+msgid "Enter a valid email address"
+msgstr "输入有效的邮箱地址"
+
+#: ../dw-question-answer.php:108
+msgid "Enter a question title"
+msgstr "输入问题标题"
+
+#: ../dw-question-answer.php:109
+msgid "Please add your name"
+msgstr "请输入你的名字"
+
+#: ../dw-question-answer.php:110
+msgid "Please enter your answer"
+msgstr "请输入你的回答"
+
+#: ../dw-question-answer.php:111 ../inc/Handle.php:191
+msgid "Please enter your comment content"
+msgstr "请输入你的评论内容"
+
+#: ../dw-question-answer.php:112
+msgid "Comment must have more than 2 characters"
+msgstr "评论必须 包含2 个以上的字符"
+
+#: ../dw-question-answer.php:113
+msgid "Not found! Try another keyword."
+msgstr "没找到相关内容！换个关键词试试。"
+
+#: ../dw-question-answer.php:114
+msgid "Or press <strong>ENTER</strong> to get more questions"
+msgstr "或者按回车键 <strong>ENTER</strong> 获取更多问题"
+
+#: ../dw-question-answer.php:115
+msgid "Update"
+msgstr "更新"
+
+#: ../dw-question-answer.php:116 ../inc/Posts/Answer.php:317
+#: ../inc/Posts/Base.php:320 ../inc/Settings.php:402 ../inc/Template.php:58
+#: ../inc/Template.php:163 ../inc/Template.php:180
+#: ../templates/content-comment.php:19
+msgid "Edit"
+msgstr "编辑"
+
+#: ../dw-question-answer.php:117
+msgid "Cancel"
+msgstr "取消"
+
+#: ../dw-question-answer.php:118
+msgid "Do you want to delete this comment?"
+msgstr "你确定要删除这条评论吗？"
+
+#: ../dw-question-answer.php:119
+msgid "Do you want to delete this answer?"
+msgstr "你确定要删除这条回答吗？"
+
+#: ../dw-question-answer.php:120
+msgid "Do you want to update this answer?"
+msgstr "你想要更新这个回答？"
+
+#: ../dw-question-answer.php:121
+msgid "Do you want to report this answer?"
+msgstr "你想要举报这个回答？"
+
+#: ../dw-question-answer.php:123
+msgid "Report"
+msgstr "举报"
+
+#: ../dw-question-answer.php:124
+msgid "Undo"
+msgstr "复原"
+
+#: ../dw-question-answer.php:125
+msgid "This answer will be marked as spam and hidden. Do you want to flag it?"
+msgstr "该回答将在标识为垃圾信息后被隐藏，你确定要举报它吗？"
+
+#: ../dw-question-answer.php:126
+msgid "This answer was flagged as spam. Do you want to show it"
+msgstr "该回答已被举报为垃圾信息，你想要显示它"
+
+#: ../dw-question-answer.php:127
+msgid "This answer was flagged as spam"
+msgstr "该回答已被举报为垃圾信息"
+
+#: ../dw-question-answer.php:128
+msgid "hide"
+msgstr "隐藏"
+
+#: ../dw-question-answer.php:129
+msgid "show"
+msgstr "显示"
+
+#: ../dw-question-answer.php:131
+msgid "Follow This Question"
+msgstr "关注该问题"
+
+#: ../dw-question-answer.php:132
+msgid "Unfollow This Question"
+msgstr "取消关注该问题"
+
+#: ../dw-question-answer.php:133
+msgid "Pin this question to top"
+msgstr "在首页置顶这个问题"
+
+#: ../dw-question-answer.php:134
+msgid "Unpin this question from top"
+msgstr "在首页取消置顶这个问题"
+
+#: ../dw-question-answer.php:137
+msgid "Do you want to delete this question?"
+msgstr "你确定要删除这个问题吗？"
+
+#: ../dw-question-answer.php:153
+msgid "DWQA Questions"
+msgstr "DWQA 问题"
+
+#: ../dw-question-answer.php:170
+msgid "DWQA Ask Question"
+msgstr "DWQA 提问"
+
+#: ../inc/Admin/Extensions.php:13
+msgid "DWQA Markdown"
+msgstr "DWQA Markdown"
+
+#: ../inc/Admin/Extensions.php:19
+msgid "DWQA Leaderboard"
+msgstr "DWQA Leaderboard"
+
+#: ../inc/Admin/Extensions.php:25
+msgid "DWQA Captcha"
+msgstr "DWQA Captcha"
+
+#: ../inc/Admin/Extensions.php:31
+msgid "DWQA Embed Question"
+msgstr "DWQA 嵌入问题"
+
+#: ../inc/Admin/Extensions.php:37
+msgid "DWQA Widgets"
+msgstr "DWQA 小工具"
+
+#: ../inc/Admin/Extensions.php:47
+msgid "Extensions"
+msgstr "扩展"
+
+#: ../inc/Admin/Extensions.php:75
+msgid "Get It Now!"
+msgstr "马上获得！"
+
+#: ../inc/Admin/Welcome.php:28 ../inc/Admin/Welcome.php:29
+msgid "Welcome to DW Question & Answer"
+msgstr "如何使用 DW Question & Answer"
+
+#: ../inc/Admin/Welcome.php:36 ../inc/Admin/Welcome.php:37
+msgid "DW Question & Answer Changelog"
+msgstr "DW Question & Answer 更新历史"
+
+#: ../inc/Admin/Welcome.php:44 ../inc/Admin/Welcome.php:45
+msgid "DW Question & Answer Credits"
+msgstr "DW Question & Answer 信誉"
+
+#: ../inc/Admin/Welcome.php:61
+#, php-format
+msgid "Welcome to DW Question & Answer %s"
+msgstr "如何使用 DW Question & Answer %s"
+
+#: ../inc/Admin/Welcome.php:62
+msgid ""
+"Thank you for installing our WordPress plugin. If you have any question "
+"about this plugin, please submit to our <a target=\"_blank\" href=\"https://"
+"www.designwall.com/question/\">Q&A section</a>."
+msgstr ""
+"感谢安装我们的 WordPress 插件，如果你有任何关于这个插件的问题，请提交到我们"
+"的 <a target=\"_blank\" href=\"https://www.designwall.com/question/\">Q&A 分"
+"类</a>。"
+
+#: ../inc/Admin/Welcome.php:70
+msgid "What&#8217;s New"
+msgstr "更新内容"
+
+#: ../inc/Admin/Welcome.php:71
+msgid "Changelog"
+msgstr "更新历史"
+
+#: ../inc/Admin/Welcome.php:72
+msgid "Credits"
+msgstr "信用"
+
+#: ../inc/Admin/Welcome.php:200
+msgid "Contributors"
+msgstr "贡献者"
+
+#: ../inc/Admin/Welcome.php:219
+msgid "No valid changelog was found."
+msgstr "未找到有效的更新历史。"
+
+#: ../inc/Ajax.php:29 ../inc/Ajax.php:47 ../inc/Ajax.php:83
+#: ../inc/Ajax.php:113 ../inc/Ajax.php:132 ../inc/Ajax.php:150
+#: ../inc/Ajax.php:215 ../inc/Handle.php:244 ../inc/Handle.php:430
+#: ../inc/Permission.php:286 ../inc/Status.php:319
+msgid "Are you cheating huh?"
+msgstr "你作弊？"
+
+#: ../inc/Ajax.php:33 ../inc/Handle.php:248
+msgid "You do not have permission to edit comment."
+msgstr "你没有足够的权限编辑评论。"
+
+#: ../inc/Ajax.php:37
+msgid "Comment ID must be showed."
+msgstr "评论ID必须显示。"
+
+#: ../inc/Ajax.php:51 ../inc/Handle.php:144
+msgid "Answer is missing."
+msgstr "回答丢失。"
+
+#: ../inc/Ajax.php:55 ../inc/Handle.php:148
+msgid "This post is not answer."
+msgstr "这个文章不是回答。"
+
+#: ../inc/Ajax.php:59 ../inc/Ajax.php:162
+msgid "You do not have permission to delete this post."
+msgstr "你没有足够的权限删除这个文章。"
+
+#: ../inc/Ajax.php:86
+msgid "Missing id of answer"
+msgstr "缺少了回答ID"
+
+#: ../inc/Ajax.php:154 ../inc/Handle.php:452
+msgid "Question is missing."
+msgstr "问题丢失。"
+
+#: ../inc/Ajax.php:158 ../inc/Handle.php:456
+msgid "This post is not question."
+msgstr "这个文章不是问题。"
+
+#: ../inc/Ajax.php:206
+msgid "You do not have permission to edit question status"
+msgstr "你没有足够的权限编辑问题状态"
+
+#: ../inc/Ajax.php:223 ../inc/Ajax.php:272
+msgid "Not Found!!!"
+msgstr "未找到！！"
+
+#: ../inc/Answer_List_Table.php:81 ../inc/Posts/Answer.php:271
+#: ../inc/Template.php:48
+msgid "Author"
+msgstr "作者"
+
+#: ../inc/Answer_List_Table.php:82
+msgid "Detail"
+msgstr "详情"
+
+#: ../inc/Answer_List_Table.php:92 ../inc/Notifications.php:146
+#: ../inc/Notifications.php:148 ../inc/Posts/Base.php:230
+#: ../inc/Posts/Comment.php:102 ../inc/Settings.php:419
+#: ../inc/Settings.php:455 ../inc/Settings.php:490 ../inc/User.php:155
+#: ../inc/widgets/Latest_Question.php:39
+msgid "Anonymous"
+msgstr "任何人"
+
+#: ../inc/Answer_List_Table.php:101
+msgid "Answered on "
+msgstr "回答于"
+
+#: ../inc/Answer_List_Table.php:112 ../inc/Helptab.php:149
+msgid "Read more"
+msgstr "阅读更多"
+
+#: ../inc/Handle.php:29
+msgid "&quot;Helllo&quot;, Are you cheating huh?."
+msgstr "Helllo，你作弊？"
+
+#: ../inc/Handle.php:32
+msgid "Delete draft"
+msgstr "删除草稿"
+
+#: ../inc/Handle.php:39
+msgid "Answer content is empty"
+msgstr "回答内容是空的"
+
+#: ../inc/Handle.php:42
+msgid "Question is empty"
+msgstr "问题是空的"
+
+#: ../inc/Handle.php:46 ../inc/Handle.php:407
+msgid "You do not have permission to submit question."
+msgstr "你没有足够的权限提交问题。"
+
+#: ../inc/Handle.php:50 ../inc/Handle.php:426
+msgid "Captcha is not correct"
+msgstr "验证码不正确"
+
+#: ../inc/Handle.php:69
+msgid "Answer for "
+msgstr "回答给"
+
+#: ../inc/Handle.php:129
+msgid "You do not have permission to edit answer."
+msgstr "你没有足够的权限编辑回答。"
+
+#: ../inc/Handle.php:133 ../inc/Handle.php:495 ../inc/Posts/Question.php:473
+msgid "Hello, Are you cheating huh?"
+msgstr "Helllo，你作弊？"
+
+#: ../inc/Handle.php:138
+msgid "You must enter a valid answer content."
+msgstr "你必须输入一个有效的答案内容。"
+
+#: ../inc/Handle.php:182
+msgid "You can't post comment"
+msgstr "你不能发表评论"
+
+#: ../inc/Handle.php:185
+msgid "Missing post id."
+msgstr "缺少了文章ID。"
+
+#: ../inc/Handle.php:206
+msgid "Missing email information"
+msgstr "缺少邮件信息"
+
+#: ../inc/Handle.php:210
+msgid "Missing name information"
+msgstr "缺少名字信息"
+
+#: ../inc/Handle.php:237
+msgid "Comment is missing"
+msgstr "评论丢失"
+
+#: ../inc/Handle.php:252
+msgid "Comment content must not be empty."
+msgstr "评论内容不能为空。"
+
+#: ../inc/Handle.php:282 ../inc/Handle.php:446
+msgid "You must enter a valid question title."
+msgstr "你必须输入一个有效的问题标题。"
+
+#: ../inc/Handle.php:360
+msgid "User Registration was disabled."
+msgstr "用户注册已被禁用。"
+
+#: ../inc/Handle.php:363
+msgid "This email is already registered, please choose another one."
+msgstr "该邮箱已被注册，请填写其他邮箱地址。"
+
+#: ../inc/Handle.php:366
+msgid "This username is already registered. Please use another one."
+msgstr "该用户名已被注册，请使用其他用户名。"
+
+#: ../inc/Handle.php:419
+msgid "Your question is waiting moderator."
+msgstr "你的问题正在等待审核。"
+
+#: ../inc/Handle.php:441 ../inc/Status.php:347
+msgid "You do not have permission to edit question"
+msgstr "你没有足够的权限编辑问题。"
+
+#: ../inc/Helptab.php:43
+msgid "Overview"
+msgstr "预览"
+
+#: ../inc/Helptab.php:44
+msgid "DW Question Answer Plugin"
+msgstr "DW Question Answer 插件"
+
+#: ../inc/Helptab.php:45
+msgid ""
+"DW Question Answer is a WordPress Plugin which helps you build a Question & "
+"Answer system on your WordPress sites. The plugin is easy to install and set "
+"up. Let start building up your community with this WordPress question & "
+"answer system."
+msgstr ""
+"DW Question Answer 是一个 WordPress插件，可以帮你在你的WordPress站点中建立一"
+"个问答系统。该插件非常同意安装和设置。让我们开始用这个WordPress问答系统来搭建"
+"你的社区吧。"
+
+#: ../inc/Helptab.php:48
+msgid "Setup Question List Page"
+msgstr "设置问题列表页面"
+
+#: ../inc/Helptab.php:52
+msgid "Setup Ask Question Page"
+msgstr "设置提问页面"
+
+#: ../inc/Helptab.php:56
+msgid "Shortcode"
+msgstr "简码"
+
+#: ../inc/Helptab.php:60
+msgid "Style integration"
+msgstr "样式集成"
+
+#: ../inc/Helptab.php:169
+msgid "For more information:"
+msgstr "更多信息："
+
+#: ../inc/Helptab.php:170
+msgid "DW Question Answer Guide"
+msgstr "DW Question & Answer 指南"
+
+#: ../inc/Helptab.php:171
+msgid "Community"
+msgstr "社区"
+
+#: ../inc/Helptab.php:172
+msgid "DesignWall Wordpress Themes"
+msgstr "DesignWall WordPress主题"
+
+#: ../inc/Helptab.php:173
+msgid "DesignWall Wordpress Plugins"
+msgstr "DesignWall WordPress 插件"
+
+#: ../inc/Metaboxes.php:13 ../templates/content-single-question.php:31
+#: ../templates/question-submit-form.php:22
+msgid "Status"
+msgstr "状态"
+
+#: ../inc/Metaboxes.php:15 ../inc/Status.php:304
+#: ../templates/archive-question-filter.php:18
+#: ../templates/content-single-question.php:32
+msgid "Open"
+msgstr "开放"
+
+#: ../inc/Metaboxes.php:16 ../inc/Status.php:287
+msgid "Pending"
+msgstr "待审核"
+
+#: ../inc/Metaboxes.php:17 ../inc/Status.php:284
+#: ../templates/archive-question-filter.php:19
+#: ../templates/content-single-question.php:34
+msgid "Resolved"
+msgstr "已解决"
+
+#: ../inc/Metaboxes.php:18 ../inc/Status.php:290
+msgid "Re-Open"
+msgstr "重新开放"
+
+#: ../inc/Metaboxes.php:19 ../inc/Status.php:293
+#: ../templates/archive-question-filter.php:20
+#: ../templates/content-single-question.php:33
+msgid "Closed"
+msgstr "已关闭"
+
+#: ../inc/Metaboxes.php:25
+msgid "Sticky"
+msgstr "置顶"
+
+#: ../inc/Metaboxes.php:29
+msgid "Pin question to top of archive page."
+msgstr "在存档页面的顶部置顶问题"
+
+#: ../inc/Metaboxes.php:45 ../inc/Posts/Answer.php:225
+#: ../inc/Posts/Answer.php:227 ../inc/Settings.php:431
+#: ../templates/archive-question-filter.php:34
+msgid "Answers"
+msgstr "回答"
+
+#: ../inc/Metaboxes.php:65
+msgid "Question Meta Data"
+msgstr "问题Meta数据"
+
+#: ../inc/Notifications.php:27
+msgid "A new question was posted on {site_name}"
+msgstr "{site_name} 发布了一个新问题"
+
+#: ../inc/Notifications.php:118
+msgid "A new answer for \"{question_title}\" was posted on {site_name}"
+msgstr "{site_name} 的  \"{question_title}\" 有一条新回答"
+
+#: ../inc/Notifications.php:186
+msgid "You have a new answer for your followed question"
+msgstr "你关注的问题有了新的回答"
+
+#: ../inc/Notifications.php:284 ../inc/Notifications.php:330
+msgid "[{site_name}] You have a new comment for question {question_title}"
+msgstr "[{site_name}] 你在问题 {question_title} 中收到新的评论"
+
+#: ../inc/Notifications.php:289 ../inc/Notifications.php:335
+msgid "[{site_name}] You have a new comment for answer"
+msgstr "[{site_name}] 你的回答有新的评论"
+
+#: ../inc/PointerHelper.php:60
+msgid "How to use DW Question Answer"
+msgstr "如何使用 DW Question & Answer"
+
+#: ../inc/PointerHelper.php:61
+msgid "Documents, Support From DesignWall (help)"
+msgstr "从 DesignWall 获取文档和支持"
+
+#: ../inc/PointerHelper.php:70
+msgid "Config your support channel"
+msgstr "配置你的支持渠道"
+
+#: ../inc/PointerHelper.php:71
+msgid "Change comment settings, and create the Submit question page."
+msgstr "更改插件设置，并创建问题提交页面。"
+
+#: ../inc/Posts/Answer.php:226 ../inc/Posts/Answer.php:270
+msgid "Answer"
+msgstr "回答"
+
+#: ../inc/Posts/Answer.php:273
+msgid "In Response To"
+msgstr "响应给"
+
+#: ../inc/Posts/Answer.php:318 ../inc/Settings.php:403 ../inc/Template.php:168
+#: ../inc/Template.php:185 ../templates/content-comment.php:22
+msgid "Delete"
+msgstr "删除"
+
+#: ../inc/Posts/Answer.php:319 ../inc/Posts/Base.php:322
+msgid "View"
+msgstr "阅读"
+
+#: ../inc/Posts/Answer.php:323
+msgid "Submitted"
+msgstr "提交"
+
+#: ../inc/Posts/Answer.php:324
+msgid "on"
+msgstr "于"
+
+#: ../inc/Posts/Answer.php:359
+msgid "Question ID"
+msgstr "问题 ID"
+
+#: ../inc/Posts/Answer.php:370 ../inc/Posts/Answer.php:373
+msgid "ID"
+msgstr "ID"
+
+#: ../inc/Posts/Base.php:5
+msgid "Are you cheating, huh?"
+msgstr "你作弊，是吧？"
+
+#: ../inc/Posts/Base.php:18
+msgid "What "
+msgstr "什么"
+
+#: ../inc/Posts/Base.php:46
+msgid "You voted for this "
+msgstr "你已投票了"
+
+#: ../inc/Posts/Base.php:242
+#, php-format
+msgid "Posts by %s"
+msgstr "由 %s 发布于"
+
+#: ../inc/Posts/Base.php:251 ../inc/Posts/Base.php:255
+#, php-format
+msgid "%s answered <span class=\"dwqa-date\">%s</span> ago"
+msgstr "%s 回答于 <span class=\"dwqa-date\">%s</span> 以前"
+
+#: ../inc/Posts/Base.php:257
+#, php-format
+msgid "%s asked <span class=\"dwqa-date\">%s</span> ago"
+msgstr "%s 提问于 <span class=\"dwqa-date\">%s</span> 以前"
+
+#: ../inc/Posts/Base.php:306
+msgid "DWQA Posts"
+msgstr "DWQA 文章"
+
+#: ../inc/Posts/Base.php:307
+msgid "DWQA Post"
+msgstr "DWQA 文章"
+
+#: ../inc/Posts/Base.php:318
+msgctxt "dwqa"
+msgid "Add New"
+msgstr "新建"
+
+#: ../inc/Posts/Base.php:319
+msgid "Add New"
+msgstr "新建"
+
+#: ../inc/Posts/Base.php:321 ../inc/Status.php:296
+msgid "New"
+msgstr "新的"
+
+#: ../inc/Posts/Base.php:323
+msgid "Search "
+msgstr "搜索"
+
+#: ../inc/Posts/Base.php:324
+msgid "not found"
+msgstr "未找到"
+
+#: ../inc/Posts/Base.php:325
+msgid "not found in Trash"
+msgstr "回收站未找到"
+
+#: ../inc/Posts/Base.php:326
+msgid "Parent:"
+msgstr "父级："
+
+#: ../inc/Posts/Question.php:56 ../inc/Shortcode.php:120
+#: ../inc/widgets/Closed_Question.php:49 ../inc/widgets/Latest_Question.php:39
+#: ../inc/widgets/Popular_Question.php:43
+msgid "asked by"
+msgstr "提问人"
+
+#: ../inc/Posts/Question.php:100 ../inc/Posts/Question.php:102
+#: ../inc/Posts/Question.php:266 ../inc/Settings.php:395
+#: ../templates/archive-question-filter.php:28
+msgid "Questions"
+msgstr "问题"
+
+#: ../inc/Posts/Question.php:101
+msgid "Question"
+msgstr "问题"
+
+#: ../inc/Posts/Question.php:196
+msgctxt "taxonomy general name"
+msgid "Question Categories"
+msgstr "问题分类"
+
+#: ../inc/Posts/Question.php:197
+msgctxt "taxonomy singular name"
+msgid "Question Category"
+msgstr "问题分类"
+
+#: ../inc/Posts/Question.php:198
+msgid "Search Question Categories"
+msgstr "搜索问题分类"
+
+#: ../inc/Posts/Question.php:199
+msgid "All Question Categories"
+msgstr "所有问题分类"
+
+#: ../inc/Posts/Question.php:200
+msgid "Parent Question Category"
+msgstr "父级问题分类"
+
+#: ../inc/Posts/Question.php:201
+msgid "Parent Question Category:"
+msgstr "父级问题分类："
+
+#: ../inc/Posts/Question.php:202
+msgid "Edit Question Category"
+msgstr "编辑问题分类"
+
+#: ../inc/Posts/Question.php:203
+msgid "Update Question Category"
+msgstr "更新问题分类"
+
+#: ../inc/Posts/Question.php:204
+msgid "Add New Question Category"
+msgstr "添加问题分类"
+
+#: ../inc/Posts/Question.php:205
+msgid "New Question Category Name"
+msgstr "新的问题分类名称"
+
+#: ../inc/Posts/Question.php:206
+msgid "Question Category"
+msgstr "问题分类"
+
+#: ../inc/Posts/Question.php:225
+msgctxt "taxonomy general name"
+msgid "Question Tags"
+msgstr "问题标签"
+
+#: ../inc/Posts/Question.php:226
+msgctxt "taxonomy singular name"
+msgid "Question Tag"
+msgstr "问题标签"
+
+#: ../inc/Posts/Question.php:227
+msgid "Search Question Tags"
+msgstr "搜索问题标签"
+
+#: ../inc/Posts/Question.php:228
+msgid "Popular Question Tags"
+msgstr "热门问题标签"
+
+#: ../inc/Posts/Question.php:229
+msgid "All Question Tags"
+msgstr "所有问题标签"
+
+#: ../inc/Posts/Question.php:232
+msgid "Edit Question Tag"
+msgstr "编辑问题标签"
+
+#: ../inc/Posts/Question.php:233
+msgid "Update Question Tag"
+msgstr "更新问题标签"
+
+#: ../inc/Posts/Question.php:234
+msgid "Add New Question Tag"
+msgstr "添加新问题标签"
+
+#: ../inc/Posts/Question.php:235
+msgid "New Question Tag Name"
+msgstr "新问题标签名称"
+
+#: ../inc/Posts/Question.php:236
+msgid "Separate question tags with commas"
+msgstr "使用英文逗号隔开问题标签"
+
+#: ../inc/Posts/Question.php:237
+msgid "Add or remove question tags"
+msgstr "添加或删除问题标签"
+
+#: ../inc/Posts/Question.php:238
+msgid "Choose from the most used question tags"
+msgstr "从热门问题标签中选择"
+
+#: ../inc/Posts/Question.php:239
+msgid "No question tags found."
+msgstr "没有找到问题标签。"
+
+#: ../inc/Posts/Question.php:240
+msgid "Question Tags"
+msgstr "问题标签"
+
+#: ../inc/Posts/Question.php:276
+msgid "Info"
+msgstr "信息"
+
+#: ../inc/Posts/Question.php:287 ../templates/content-question.php:22
+msgid "answered"
+msgstr "回答"
+
+#: ../inc/Posts/Question.php:288
+msgid "voted"
+msgstr "投票"
+
+#: ../inc/Posts/Question.php:289
+msgid "views"
+msgstr "阅读"
+
+#: ../inc/Posts/Question.php:410 ../inc/User.php:266
+msgid "Invalid Post"
+msgstr "无效的文章"
+
+#: ../inc/Posts/Question.php:445
+msgid "Sticky Questions"
+msgstr "置顶问题"
+
+#: ../inc/Posts/Question.php:479
+msgid "Question is not valid"
+msgstr "问题是无效的"
+
+#: ../inc/Posts/Question.php:500
+msgid "Delete Action was failed"
+msgstr "删除操作失败了"
+
+#: ../inc/Posts/Question.php:505
+msgid "You do not have permission to delete this question"
+msgstr "你没有足够的权限删除这个问题"
+
+#: ../inc/Session.php:68 ../inc/Session.php:85 ../inc/Session.php:95
+#: ../inc/Session.php:118
+msgid "This function should not be called before init."
+msgstr "这个函数不应该初始化之前被调用。"
+
+#: ../inc/Settings.php:8
+msgid "Login required. No anonymous post allowed"
+msgstr "必须登录，不允许匿名发布帖子"
+
+#: ../inc/Settings.php:20
+msgid "Select Archive Question Page"
+msgstr "选择问题归档页面"
+
+#: ../inc/Settings.php:24
+msgid ""
+"A page where displays all questions. The <code>[dwqa-list-questions]</code> "
+"short code must be on this page."
+msgstr ""
+"用于显示所有问题的页面。<code>[dwqa-list-questions]</code> 简码必须添加到这个"
+"页面。"
+
+#: ../inc/Settings.php:31
+msgid "hours"
+msgstr "小时"
+
+#: ../inc/Settings.php:31
+msgid ""
+"A period of time in which new questions are highlighted and marked as New"
+msgstr "问题发布后，在这个时限内都高亮显示，并且标识为新问题"
+
+#: ../inc/Settings.php:36
+msgid "days"
+msgstr "天"
+
+#: ../inc/Settings.php:36
+msgid ""
+"A Question will be marked as overdue if it passes this period of time, "
+"starting from the time the question was submitted"
+msgstr "问题在超过这个时限后将被标识为过期问题，时间从问题提交算起。"
+
+#: ../inc/Settings.php:47
+msgid "Select Submit Question Page"
+msgstr "选择提交问题页面"
+
+#: ../inc/Settings.php:52
+msgid ""
+"A page where users can submit questions. The <code>[dwqa-submit-question-"
+"form]</code> short code must be on this page."
+msgstr ""
+"给用户提交问题的页面。<code>[dwqa-submit-question-form]</code> 简码必须添加到"
+"这个页面。"
+
+#: ../inc/Settings.php:65
+msgid "Select 404 DWQA Page"
+msgstr "选择 404 DWQA 页面"
+
+#: ../inc/Settings.php:70
+msgid ""
+"This page will be redirected when users without authority click on a private "
+"question. You can customize the message of this page in.If not, a default "
+"404 page will be used."
+msgstr ""
+"当用户擅自点击一个私人问题时，将被重定向到这个页面。你可以自定义这个页面的消"
+"息。如果没有，将使用默认的404页面。"
+
+#: ../inc/Settings.php:87
+msgid "Upload"
+msgstr "上传"
+
+#: ../inc/Settings.php:87
+msgid "Upload or choose a logo to be displayed at the top of the email."
+msgstr "上传或选择一个在邮件中显示的Logo。"
+
+#: ../inc/Settings.php:126 ../inc/Settings.php:161 ../inc/Settings.php:197
+#: ../inc/Settings.php:233 ../inc/Settings.php:268 ../inc/Settings.php:303
+#: ../inc/Settings.php:338
+msgid "Enable?"
+msgstr "启用？"
+
+#: ../inc/Settings.php:126
+msgid "Enable notification for new question."
+msgstr "启用新问题通知"
+
+#: ../inc/Settings.php:131 ../inc/Settings.php:166 ../inc/Settings.php:202
+#: ../inc/Settings.php:238 ../inc/Settings.php:273 ../inc/Settings.php:308
+#: ../inc/Settings.php:343
+msgid "Email subject"
+msgstr "邮件主题"
+
+#: ../inc/Settings.php:136 ../inc/Settings.php:171 ../inc/Settings.php:207
+#: ../inc/Settings.php:243 ../inc/Settings.php:278 ../inc/Settings.php:313
+#: ../inc/Settings.php:348
+msgid "Email Content"
+msgstr "邮件内容"
+
+#: ../inc/Settings.php:161
+msgid "Enable notification for new answer."
+msgstr "启用新回答通知"
+
+#: ../inc/Settings.php:197
+msgid "Enable notification for new answer ( to Followers )."
+msgstr "启用新回答通知（给关注者）"
+
+#: ../inc/Settings.php:233 ../inc/Settings.php:268
+msgid "Enable notification for new comment of question."
+msgstr "启用问题有新评论通知"
+
+#: ../inc/Settings.php:303 ../inc/Settings.php:338
+msgid "Enable notification for new comment of answer."
+msgstr "启用回答有新评论的通知"
+
+#: ../inc/Settings.php:400
+msgid "Read"
+msgstr "阅读"
+
+#: ../inc/Settings.php:401
+msgid "Post"
+msgstr "发布"
+
+#: ../inc/Settings.php:429 ../inc/Settings.php:465 ../inc/Settings.php:500
+msgid "Reset Default"
+msgstr "恢复默认"
+
+#: ../inc/Settings.php:467
+msgid "Comments"
+msgstr "评论"
+
+#: ../inc/Settings.php:509
+msgid "Enable captcha on submit question page."
+msgstr "在提问页面启用验证码"
+
+#: ../inc/Settings.php:515
+msgid "Enable captcha on single question page."
+msgstr "在单个问题页面启用验证码"
+
+#: ../inc/Settings.php:533
+msgid "Default"
+msgstr "默认"
+
+#: ../inc/Settings.php:546
+msgid "questions."
+msgstr "问题。"
+
+#: ../inc/Settings.php:552
+msgid "answers."
+msgstr "回答。"
+
+#: ../inc/Settings.php:558
+msgid "Allow members to post private question."
+msgstr "允许用户提交私密问题。"
+
+#: ../inc/Settings.php:564
+msgid "Question must be manually approved."
+msgstr "问题必须手动批准。"
+
+#: ../inc/Settings.php:570
+msgid "Display status icon on the left side."
+msgstr "在左侧显示状态图标。"
+
+#: ../inc/Settings.php:576
+msgid "Disable question status feature."
+msgstr "禁用问题状态功能。"
+
+#: ../inc/Settings.php:582
+msgid "Show all answers on single question page."
+msgstr "在单个问题页面显示所有回答。"
+
+#: ../inc/Settings.php:593
+msgid "Select template for Single Quesiton page"
+msgstr "为单个问题页面选择模板"
+
+#: ../inc/Settings.php:599
+msgid ""
+"By default, your single.php template file will be used if you do not choose "
+"any template"
+msgstr ""
+"默认情况下，如果你没有选择任何模板，你主题的 single.php 模板文件将被使用。"
+
+#: ../inc/Settings.php:607
+#, php-format
+msgid ""
+"If you like, you may enter custom structure for your single question, "
+"question category and question tag URLs here. For example, using "
+"<code>topic</code> as your question base would make your question links like "
+"<code>%s</code>. If you leave these blank the default will be used."
+msgstr ""
+"如果你喜欢，你可以在这里自定义单个问题、问题分类和问题标签 URLs 的结构。例"
+"如，使用 <code>topic</code> 作为你的问题的基础前缀，会让你的问题链接像这样 "
+"<code>%s</code>。留空将使用默认设置。"
+
+#: ../inc/Settings.php:732
+msgid "Plugin Settings"
+msgstr "插件设置"
+
+#: ../inc/Settings.php:732
+msgid "Settings"
+msgstr "设置"
+
+#: ../inc/Settings.php:768
+msgid "Email Settings"
+msgstr "邮件设置"
+
+#: ../inc/Settings.php:769
+msgid "New Question Notifications"
+msgstr "新问题通知"
+
+#: ../inc/Settings.php:770
+msgid "New Answer Notifications"
+msgstr "新回答通知"
+
+#: ../inc/Settings.php:771
+msgid "New Comment Notifications"
+msgstr "新评论通知"
+
+#: ../inc/Settings.php:784
+msgid "Page Settings"
+msgstr "页面设置"
+
+#: ../inc/Settings.php:791
+msgid "Question List Page"
+msgstr "问题列表页面"
+
+#: ../inc/Settings.php:799 ../inc/Settings.php:930
+msgid "Ask Question Page"
+msgstr "提问页面"
+
+#: ../inc/Settings.php:842
+msgid "Question Settings"
+msgstr "问题设置"
+
+#: ../inc/Settings.php:849
+msgid "Archive Page Show At Most"
+msgstr "存档页面最多显示"
+
+#: ../inc/Settings.php:857
+msgid "Before A Question Appears"
+msgstr "在问题显示前"
+
+#: ../inc/Settings.php:865
+msgid "Other Question Settings"
+msgstr "其他问题设置"
+
+#: ../inc/Settings.php:890
+msgid "Answer Settings"
+msgstr "回答设置"
+
+#: ../inc/Settings.php:897
+msgid "Answer Listing"
+msgstr "回答列表"
+
+#: ../inc/Settings.php:915
+msgid "Captcha Settings"
+msgstr "验证码设置"
+
+#: ../inc/Settings.php:922
+msgid "Type"
+msgstr "类型"
+
+#: ../inc/Settings.php:938
+msgid "Single Question Page"
+msgstr "单个问题页面"
+
+#: ../inc/Settings.php:950
+msgid "Permalink Settings"
+msgstr "固定链接设置"
+
+#: ../inc/Settings.php:957
+msgid "Question Base"
+msgstr "问题基础"
+
+#: ../inc/Settings.php:965
+msgid "Question Category Base"
+msgstr "问题分类基础"
+
+#: ../inc/Settings.php:973
+msgid "Question Tag Base"
+msgstr "问题标签基础"
+
+#: ../inc/Settings.php:1042
+msgid "From Email"
+msgstr "来源邮箱"
+
+#: ../inc/Settings.php:1110 ../inc/Settings.php:1117
+msgid "Group Permission"
+msgstr "用户组权限"
+
+#: ../inc/Settings.php:1145
+msgid "DWQA Settings"
+msgstr ""
+"DWQA 设置 <span style=\"font-size:14px;\">—— 由 <a href=\"http://www.wpdaxue."
+"com/dw-question-answer.html\" target=\"_blank\">WordPress大学</a> 提供简体中"
+"文支持</span>"
+
+#: ../inc/Settings.php:1149
+msgid "General"
+msgstr "常规"
+
+#: ../inc/Settings.php:1150
+msgid "Emails"
+msgstr "邮件"
+
+#: ../inc/Settings.php:1151
+msgid "Permissions"
+msgstr "权限"
+
+#: ../inc/Settings.php:1152
+msgid "Licenses"
+msgstr "授权码"
+
+#: ../inc/Settings.php:1166
+msgid "Email settings"
+msgstr "邮件设置"
+
+#: ../inc/Settings.php:1168
+msgid "Email Logo"
+msgstr "邮件Logo"
+
+#: ../inc/Settings.php:1182
+msgid "New Question Notifications (to Admin)"
+msgstr "新问题通知（给管理员）"
+
+#: ../inc/Settings.php:1206
+msgid "New Answer Notifications (to Followers)"
+msgstr "新回答通知（给关注者）"
+
+#: ../inc/Settings.php:1222
+msgid "New Answer Notifications (to Admin)"
+msgstr "新回答通知（给管理员）"
+
+#: ../inc/Settings.php:1242
+msgid "New Comment to Question Notifications (to Followers)"
+msgstr "问题有新评论通知（给关注者）"
+
+#: ../inc/Settings.php:1259
+msgid "New Comment to Question Notifications (to Admin)"
+msgstr "问题有新评论通知（给管理员）"
+
+#: ../inc/Settings.php:1279
+msgid "New Comment to Answer Notifications (to Followers)"
+msgstr "回答有新评论时通知（给关注者）"
+
+#: ../inc/Settings.php:1296
+msgid "New Comment to Answer Notifications (to Admin)"
+msgstr "回答有新评论时通知（给管理员）"
+
+#: ../inc/Settings.php:1314
+msgid "Save all changes"
+msgstr "保存设置"
+
+#: ../inc/Settings.php:1328
+#, php-format
+msgid "Manage <a href=\"%s\">DWQA Extensions</a> license keys"
+msgstr "可以在这里管理你的 <a href=\"%s\">DWQA 扩展</a> 的授权码。"
+
+#: ../inc/Settings.php:1346 ../inc/Settings.php:1351 ../inc/Settings.php:1356
+#: ../inc/Settings.php:1361
+msgid "Forward to"
+msgstr "转发"
+
+#: ../inc/Settings.php:1366
+msgid "Cc"
+msgstr "Cc"
+
+#: ../inc/Settings.php:1371
+msgid "Bcc"
+msgstr "Bcc"
+
+#: ../inc/Settings.php:1376
+msgid "This address will be used as the sender of the outgoing emails."
+msgstr "该邮箱地址将被用作外发电子邮件的发送者。"
+
+#: ../inc/Settings.php:1382
+msgid "Send a copy of every email to admin."
+msgstr "每封邮件发送一份拷贝给管理员。"
+
+#: ../inc/Shortcode.php:97 ../inc/widgets/Popular_Question.php:21
+msgid "Popular Questions"
+msgstr "DWQA 热门问题"
+
+#: ../inc/Shortcode.php:134
+msgid "Latest Answers"
+msgstr "新回答"
+
+#: ../inc/Shortcode.php:160
+msgid "Answer at"
+msgstr "回答"
+
+#: ../inc/Shortcode.php:160
+msgid "Link to"
+msgstr "链接到"
+
+#: ../inc/Shortcode.php:188
+#, php-format
+msgid "%d person who is following this question"
+msgid_plural "%d people who are following this question"
+msgstr[0] "%d 人正在关注该问题"
+msgstr[1] "%d 人正在关注该问题"
+
+#: ../inc/Shortcode.php:218
+msgid "Question List"
+msgstr "问题列表"
+
+#: ../inc/Status.php:300
+msgid "Answered"
+msgstr "已回答"
+
+#: ../inc/Status.php:324
+msgid "Missing post ID"
+msgstr "缺少了文章ID"
+
+#: ../inc/Status.php:337
+msgid "Post does not exist"
+msgstr "文章不存在"
+
+#: ../inc/Status.php:342
+msgid "Invalid post status"
+msgstr "无效的文章状态"
+
+#: ../inc/Template.php:15 ../templates/content-edit.php:44
+#: ../templates/question-submit-form.php:46
+msgid "Tag"
+msgstr "标签"
+
+#: ../inc/Template.php:15 ../inc/Template.php:20
+#: ../templates/content-edit.php:29 ../templates/question-submit-form.php:32
+msgid "Category"
+msgstr "分类"
+
+#: ../inc/Template.php:43
+msgid "Showing search results for"
+msgstr "显示搜索结果给 "
+
+#: ../inc/Template.php:78
+msgid "What do you want to know?"
+msgstr "你想要知道什么？"
+
+#: ../inc/Template.php:157
+msgid "Subscribe"
+msgstr "订阅"
+
+#: ../inc/Template.php:444
+msgid "Email"
+msgstr "邮箱"
+
+#: ../inc/Template.php:446
+msgid "Name"
+msgstr "名字"
+
+#: ../inc/Template.php:448
+#, php-format
+msgid "Required fields are marked %s"
+msgstr "必填项已被标识为 %s"
+
+#: ../inc/Template.php:460
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "你必须 <a href=\"%s\">登录</a> 后才能发表评论。"
+
+#: ../inc/Template.php:463
+#, php-format
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+msgstr ""
+"你可能会用到这些 <abbr title=\"超文本标记语言\">HTML</abbr> 标签和属性：%s"
+
+#: ../inc/Template.php:466
+msgid "Leave a Reply"
+msgstr "发表评论"
+
+#: ../inc/Template.php:467
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "回复给  %s"
+
+#: ../inc/Template.php:468
+msgid "Cancel reply"
+msgstr "取消回复"
+
+#: ../inc/Template.php:469
+msgid "Post Comment"
+msgstr "发表评论"
+
+#: ../inc/Template.php:644
+msgid "Sticky Question"
+msgstr "置顶问题"
+
+#: ../inc/Template.php:658
+msgid "Ask a question"
+msgstr "我要提问"
+
+#: ../inc/Template.php:660
+msgid "Login to ask a question"
+msgstr "登录提交你的问题"
+
+#: ../inc/Template.php:1108
+msgid "Choose as the best answer"
+msgstr "设为最佳回答"
+
+#: ../inc/Updater.php:97
+msgid "License Key"
+msgstr "授权码"
+
+#: ../inc/Updater.php:122
+msgid "Activate"
+msgstr "激活"
+
+#: ../inc/Updater.php:176
+msgid "Plugin was activated"
+msgstr "插件已激活"
+
+#: ../inc/User.php:230
+msgid "Staff"
+msgstr "用户"
+
+#: ../inc/Walker/Category.php:20 ../inc/Walker/Tag.php:20
+#, php-format
+msgid "View all posts filed under %s"
+msgstr "查看 %s 下的所有文章"
+
+#: ../inc/Walker/Category.php:35 ../inc/Walker/Tag.php:35
+#, php-format
+msgid "Feed for all posts filed under %s"
+msgstr "订阅 %s 下的所有文章"
+
+#: ../inc/widgets/Closed_Question.php:11
+msgid "Show a list of questions marked as closed."
+msgstr "显示已关闭问题列表。"
+
+#: ../inc/widgets/Closed_Question.php:12
+msgid "DWQA Closed Questions"
+msgstr "DWQA已关闭的问题"
+
+#: ../inc/widgets/Closed_Question.php:18
+msgid "Closed Questions"
+msgstr "已关闭的问题"
+
+#: ../inc/widgets/Closed_Question.php:72 ../inc/widgets/Latest_Question.php:63
+#: ../inc/widgets/Popular_Question.php:66
+#: ../inc/widgets/Related_Question.php:48
+msgid "Widget title"
+msgstr "小工具标题"
+
+#: ../inc/widgets/Closed_Question.php:75 ../inc/widgets/Latest_Question.php:66
+#: ../inc/widgets/Popular_Question.php:69
+#: ../inc/widgets/Related_Question.php:51
+msgid "Number of posts"
+msgstr "显示数量"
+
+#: ../inc/widgets/Latest_Question.php:10
+msgid "Show a list of latest questions."
+msgstr "显示最新问题列表。"
+
+#: ../inc/widgets/Latest_Question.php:11
+msgid "DWQA Latest Questions"
+msgstr "DWQA最新问题"
+
+#: ../inc/widgets/Latest_Question.php:17
+msgid "Latest Questions"
+msgstr "最新问题"
+
+#: ../inc/widgets/Popular_Question.php:13
+msgid "Show a list of popular questions."
+msgstr "显示热门问题列表。"
+
+#: ../inc/widgets/Popular_Question.php:15
+msgid "DWQA Popular Questions"
+msgstr "DWQA 热门问题"
+
+#: ../inc/widgets/Related_Question.php:11
+msgid ""
+"Show a list of questions that related to a question. Just show in single "
+"question page"
+msgstr "显示与当前问题相关的问题列表。只显示在单独的问题页面"
+
+#: ../inc/widgets/Related_Question.php:12
+msgid "DWQA Related Questions"
+msgstr "DWQA相关问题"
+
+#: ../lib/easy-digital-downloads/EDD_SL_Plugin_Updater.php:181
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">View version %3$s details</a>."
+msgstr ""
+"有新版本的 %1$s 可用。<a target=\"_blank\" class=\"thickbox\" href=\"%2$s\">"
+"查看版本 %3$s 详情</a>。"
+
+#: ../lib/easy-digital-downloads/EDD_SL_Plugin_Updater.php:188
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">View version %3$s details</a> or <a href=\"%4$s"
+"\">update now</a>."
+msgstr ""
+"有新版本的 %1$s 可用。<a target=\"_blank\" class=\"thickbox\" href=\"%2$s\">"
+"查看版本 %3$s 详情</a> 或 <a href=\"%4$s\">马上更新</a>。"
+
+#: ../lib/easy-digital-downloads/EDD_SL_Plugin_Updater.php:326
+msgid "You do not have permission to install plugin updates"
+msgstr "你没有足够的权限提交问题。"
+
+#: ../lib/easy-digital-downloads/EDD_SL_Plugin_Updater.php:326
+msgid "Error"
+msgstr "错误"
+
+#: ../templates/answer-submit-form.php:12
+msgid "Your Answer"
+msgstr "你的回答"
+
+#: ../templates/answer-submit-form.php:21
+#: ../templates/question-submit-form.php:52
+msgid "Your Email"
+msgstr "你的邮箱 *"
+
+#: ../templates/answer-submit-form.php:26
+#: ../templates/question-submit-form.php:57
+msgid "Your Name"
+msgstr "你的名字"
+
+#: ../templates/answer-submit-form.php:33
+#: ../templates/question-submit-form.php:24
+msgid "Who can see this?"
+msgstr "谁可以查看这些内容？"
+
+#: ../templates/answer-submit-form.php:34
+#: ../templates/question-submit-form.php:25
+msgid "Public"
+msgstr "所有人"
+
+#: ../templates/answer-submit-form.php:35
+#: ../templates/question-submit-form.php:26
+msgid "Only Me &amp; Admin"
+msgstr "只有我和管理员"
+
+#: ../templates/answer-submit-form.php:39
+#: ../templates/question-submit-form.php:64
+msgid "Submit"
+msgstr "提交"
+
+#: ../templates/answers.php:12
+#, php-format
+msgid "%s Answers"
+msgstr "%s 个回答"
+
+#: ../templates/archive-question-filter.php:14
+msgid "Filter:"
+msgstr "过滤："
+
+#: ../templates/archive-question-filter.php:16
+msgid "All"
+msgstr "所有"
+
+#: ../templates/archive-question-filter.php:22
+msgid "Unanswered"
+msgstr "未回答"
+
+#: ../templates/archive-question-filter.php:24
+msgid "My questions"
+msgstr "我的问题"
+
+#: ../templates/archive-question-filter.php:25
+msgid "My subscribes"
+msgstr "我的订阅"
+
+#: ../templates/archive-question-filter.php:29
+msgid "Subscribes"
+msgstr "订阅"
+
+#: ../templates/archive-question-filter.php:32
+msgid "Sort by"
+msgstr "排序方式"
+
+#: ../templates/archive-question-filter.php:33
+msgid "Views"
+msgstr "阅读"
+
+#: ../templates/archive-question-filter.php:35
+msgid "Votes"
+msgstr "投票"
+
+#: ../templates/archive-question.php:28
+msgid "Ask Question"
+msgstr "提交问题"
+
+#: ../templates/captcha-form.php:20
+msgid "Enter the result"
+msgstr "输入结果"
+
+#: ../templates/content-comment.php:16
+#, php-format
+msgctxt "%s = human-readable time difference"
+msgid "replied %s ago"
+msgstr "回复于 %s 以前"
+
+#: ../templates/content-edit.php:21 ../templates/question-submit-form.php:13
+msgid "Title"
+msgstr "标题"
+
+#: ../templates/content-edit.php:36 ../templates/question-submit-form.php:38
+msgid "Select question category"
+msgstr "选择问题分类"
+
+#: ../templates/content-edit.php:50
+msgid "Save Changes"
+msgstr "保存更改"
+
+#: ../templates/content-none.php:10
+msgid "You do not have permission to view questions"
+msgstr "你没有足够的权限查看问题"
+
+#: ../templates/content-none.php:12
+msgid "Sorry, but nothing matched your filter"
+msgstr "抱歉，没有找到符合条件的内容"
+
+#: ../templates/content-question.php:18
+msgid "asked"
+msgstr "提问于"
+
+#: ../templates/content-question.php:25
+#, php-format
+msgid "<span><a href=\"%s\">%s%s</a> %s %s ago</span>"
+msgstr "<span><a href=\"%s\">%s%s</a> %s %s 以前</span>"
+
+#: ../templates/content-question.php:26
+#: ../templates/content-single-answer.php:25
+msgid "&nbsp;&bull;&nbsp;"
+msgstr "&nbsp;&bull;&nbsp;"
+
+#: ../templates/content-question.php:31
+#, php-format
+msgid "<strong>%1$s</strong> views"
+msgstr "<strong>%1$s</strong> 阅读"
+
+#: ../templates/content-question.php:35
+#, php-format
+msgid "<strong>%1$s</strong> answers"
+msgstr "<strong>%1$s</strong> 回答"
+
+#: ../templates/content-question.php:39
+#, php-format
+msgid "<strong>%1$s</strong> votes"
+msgstr "<strong>%1$s</strong> 投票"
+
+#: ../templates/content-single-answer.php:12
+#: ../templates/content-single-question.php:14
+msgid "Vote Up"
+msgstr "顶一下"
+
+#: ../templates/content-single-answer.php:13
+#: ../templates/content-single-question.php:15
+msgid "Vote Down"
+msgstr "踩一下"
+
+#: ../templates/content-single-answer.php:17
+#: ../templates/content-single-answer.php:19
+msgid "Best Answer"
+msgstr "最佳回答"
+
+#: ../templates/content-single-answer.php:23
+#, php-format
+msgid "<span><a href=\"%s\">%s%s</a> %s answered %s ago</span>"
+msgstr "<span><a href=\"%s\">%s%s</a> %s 回答于 %s 以前</span>"
+
+#: ../templates/content-single-answer.php:26
+msgid "Private"
+msgstr "私密"
+
+#: ../templates/content-single-question.php:19
+#, php-format
+msgid "<span><a href=\"%s\">%s%s</a> %s asked %s ago</span>"
+msgstr "<span><a href=\"%s\">%s%s</a> %s 提问于 %s 以前</span>"
+
+#: ../templates/content-single-question.php:25
+msgid "Question Tags: "
+msgstr "问题标签："
+
+#: ../templates/content-single-question.php:29
+msgid "This question is:"
+msgstr "这个问题是："
+
+#: ../templates/question-submit-form.php:68
+msgid "You do not have permission to submit a question"
+msgstr "你没有足够的权限提交问题。"
+
+#: ../upgrades/upgrades.php:33
+msgid "DWQA Upgrade"
+msgstr "DWQA 升级"
+
+#: ../upgrades/upgrades.php:40
+msgid ""
+"The upgrade process has started, please be patient. This could take several "
+"minutes. You will be automatically redirected when the upgrade is finished..."
+msgstr ""
+"升级进程已经开始，请耐心等待，这将花费几分钟时间。升级完成后你将被自动重定"
+"向..."
+
+#: ../upgrades/upgrades.php:130
+msgid "You do not have permission to do this task"
+msgstr "你没有足够的权限删除这个问题"
+
+#: ../upgrades/upgrades.php:147
+msgid "Just do it.."
+msgstr "马上去做。"
+
+#: ../upgrades/upgrades.php:155
+#, php-format
+msgid "Move to next step %d"
+msgstr "进入下一步 %d"
+
+#: ../upgrades/upgrades.php:172
+msgid "Upgrade process is done"
+msgstr "升级进行已完成"
+
+#~ msgctxt "post type general name"
+#~ msgid "Question"
+#~ msgstr "问题"
+
+#~ msgctxt "post type singular name"
+#~ msgid "Question"
+#~ msgstr "问题"
+
+#~ msgid "New Question"
+#~ msgstr "新问题"
+
+#~ msgid "All Questions"
+#~ msgstr "所有问题"
+
+#~ msgid "View Question"
+#~ msgstr "查看问题"
+
+#~ msgid "DW Q&A"
+#~ msgstr "问答中心"
+
+#~ msgctxt "post type general name"
+#~ msgid "Answer"
+#~ msgstr "回答"
+
+#~ msgctxt "post type singular name"
+#~ msgid "Answer"
+#~ msgstr "回答"
+
+#~ msgid "Add new answer"
+#~ msgstr "添加新回答"
+
+#~ msgid "Edit answer"
+#~ msgstr "编辑回答"
+
+#~ msgid "New Answer"
+#~ msgstr "新回答"
+
+#~ msgid "All Answers"
+#~ msgstr "所有回答"
+
+#~ msgid "View Answer"
+#~ msgstr "查看回答"
+
+#~ msgid "Search Answer"
+#~ msgstr "搜索回答"
+
+#~ msgid "No Answers found"
+#~ msgstr "没有找到回答"
+
+#~ msgid "No Answers found in Trash"
+#~ msgstr "回收站里没有回答"
+
+#~ msgctxt "taxonomy general name"
+#~ msgid "Categories"
+#~ msgstr "分类"
+
+#~ msgctxt "taxonomy singular name"
+#~ msgid "Category"
+#~ msgstr "分类"
+
+#~ msgid "Search Categories"
+#~ msgstr "搜索分类"
+
+#~ msgid "All Categories"
+#~ msgstr "所有分类"
+
+#~ msgid "Parent Category"
+#~ msgstr "父级分类"
+
+#~ msgid "Edit Category"
+#~ msgstr "编辑分类"
+
+#~ msgid "Update Category"
+#~ msgstr "更新分类"
+
+#~ msgid "Add New Category"
+#~ msgstr "添加新分类"
+
+#~ msgid "New Category Name"
+#~ msgstr "新分类名称"
+
+#~ msgctxt "taxonomy general name"
+#~ msgid "Tags"
+#~ msgstr "标签"
+
+#~ msgid "Search Tags"
+#~ msgstr "搜索标签"
+
+#~ msgid "Popular Tags"
+#~ msgstr "热门标签"
+
+#~ msgid "All Tags"
+#~ msgstr "所有标签"
+
+#~ msgid "Edit Tag"
+#~ msgstr "编辑标签"
+
+#~ msgid "Update Tag"
+#~ msgstr "更新标签"
+
+#~ msgid "Add New Tag"
+#~ msgstr "添加新标签"
+
+#~ msgid "New Tag Name"
+#~ msgstr "新标签"
+
+#~ msgid "%s second"
+#~ msgid_plural "%s seconds"
+#~ msgstr[0] "%s 秒"
+#~ msgstr[1] "%s 秒"
+
+#~ msgid "about %s min"
+#~ msgid_plural "%s mins"
+#~ msgstr[0] "大约 %s 分钟"
+#~ msgstr[1] "%s 分钟"
+
+#~ msgid "about %s hour"
+#~ msgid_plural "%s hours"
+#~ msgstr[0] "大约 %s 小时"
+#~ msgstr[1] "%s 小时"
+
+#~ msgid "%s day"
+#~ msgid_plural "%s days"
+#~ msgstr[0] "%s 天"
+#~ msgstr[1] "%s 天"
+
+#~ msgid "%1$s ago"
+#~ msgstr "%1$s 以前"
+
+#~ msgid "Flag"
+#~ msgstr "举报"
+
+#~ msgid "Unflag"
+#~ msgstr "取消举报"
+
+#~ msgid ""
+#~ "This answer will be hidden when flagged. Are you sure you want to flag it?"
+#~ msgstr "一旦举报，这个回答就会被隐藏。您确定要举报吗？"
+
+#~ msgid "This answer was flagged as spam. Do you want to show it?"
+#~ msgstr "该回答已被举报为垃圾信息，您想要显示它？"
+
+#~ msgid "Reset all changes to default"
+#~ msgstr "恢复默认设置"
+
+#~ msgid "Save draft"
+#~ msgstr "保存草稿"
+
+#~ msgid "Missing answer ID"
+#~ msgstr "缺少了回答ID"
+
+#~ msgid "Publish"
+#~ msgstr "发布"
+
+#~ msgid "Everyone can see"
+#~ msgstr "任何人可见"
+
+#~ msgid "Only Author and Administrator can see"
+#~ msgstr "只有作者和管理员可见"
+
+#~ msgid "Sorry, but nothing matched your filter. "
+#~ msgstr "抱歉，没有符合条件的内容。"
+
+#~ msgid "You can ask question"
+#~ msgstr "您可以提问"
+
+#~ msgid "here"
+#~ msgstr "这里"
+
+#~ msgid "Please"
+#~ msgstr "请"
+
+#~ msgid "Login"
+#~ msgstr "登录"
+
+#~ msgid " or"
+#~ msgstr " 或者"
+
+#~ msgid "Search query is empty"
+#~ msgstr "搜索查询是空的"
+
+#~ msgid "A page where displays all questions"
+#~ msgstr "一个用来显示所有问题的页面"
+
+#~ msgid "A page where users can submit questions."
+#~ msgstr "一个用来提交问题的页面。"
+
+#~ msgid "Private Question"
+#~ msgstr "私密问题"
+
+#~ msgid "Review Question"
+#~ msgstr "预览问题"
+
+#~ msgid "DWQA 404 Page"
+#~ msgstr "DWQA 404 页面"
+
+#~ msgid "Question Overdue - Time Frame"
+#~ msgstr "过期问题-时限"
+
+#~ msgid "Captcha on Submit Question Page"
+#~ msgstr "提问页面的验证码"
+
+#~ msgid "Google Captcha Public Key"
+#~ msgstr "Google Captcha Public Key"
+
+#~ msgid "Google Captcha Private Key"
+#~ msgstr "Google Captcha Private Key"
+
+#~ msgid "Single Category"
+#~ msgstr "单个分类"
+
+#~ msgid "Single Tag"
+#~ msgstr "单个标签"
+
+#~ msgid "Notification"
+#~ msgstr "通知"
+
+#~ msgid "Email setup"
+#~ msgstr "邮件设置"
+
+#~ msgid "New Comment to Question"
+#~ msgstr "问题的新评论通知"
+
+#~ msgid "New Comment to Answer"
+#~ msgstr "回答的新评论通知"
+
+#~ msgid "New Answer (to Followers)"
+#~ msgstr "新回答（给关注者）"
+
+#~ msgid "New Comment to Question (to Followers)"
+#~ msgstr "问题的新评论通知（给关注者）"
+
+#~ msgid "New Comment to Answer (to Followers)"
+#~ msgstr "回答的新评论通知（给关注者）"
+
+#~ msgid "Send to"
+#~ msgstr "发送"
+
+#~ msgid "Status:"
+#~ msgstr "状态："
+
+#~ msgid "Need Answer"
+#~ msgstr "待回答"
+
+#~ msgid "Overdue"
+#~ msgstr "过期"
+
+#~ msgid "Queue"
+#~ msgstr "待审"
+
+#~ msgid "Select a category"
+#~ msgstr "选择分类"
+
+#~ msgid "Empty"
+#~ msgstr "空的"
+
+#~ msgid "You need an account to submit question and get answers. Create one:"
+#~ msgstr "您必须注册一个账号来提交问题和回答。创建一个："
+
+#~ msgid "Type your email"
+#~ msgstr "输入您的邮箱"
+
+#~ msgid "Already a member?"
+#~ msgstr "已经是本站成员？"
+
+#~ msgid "Log In"
+#~ msgstr "登录"
+
+#~ msgid "Type your username"
+#~ msgstr "输入您的用户名"
+
+#~ msgid "Type your password"
+#~ msgstr "输入您的密码"
+
+#~ msgid "Not yet a member?"
+#~ msgstr "还不是成员？"
+
+#~ msgid "Register"
+#~ msgstr "注册"
+
+#~ msgid ""
+#~ "Enter your email to receive notification regarding your question. Your "
+#~ "email is safe with us and will not be published."
+#~ msgstr ""
+#~ "输入您的电子邮件以接收关于您的问题的通知。您的邮件地址是安全的，将不会被发"
+#~ "表。"
+
+#~ msgid "Email address ..."
+#~ msgstr "电子邮件地址..."
+
+#~ msgid "or <strong><a href=\"%s\">login</a></strong> to submit question"
+#~ msgstr "或者 <strong><a href=\"%s\">登录 </a></strong> 后提交问题"
+
+#~ msgid "Private: %s"
+#~ msgstr "私密：%s"
+
+#~ msgid "Add answer"
+#~ msgstr "提交回答"
+
+#~ msgctxt "noun"
+#~ msgid "Comment"
+#~ msgstr "评论"
+
+#~ msgid ""
+#~ "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out "
+#~ "of this account\">Log out?</a>"
+#~ msgstr ""
+#~ "已登录为 <a href=\"%1$s\">%2$s</a>。<a href=\"%3$s\" title=\"登出该账号\">"
+#~ "登出？</a>"
+
+#~ msgid "Your email address will not be published."
+#~ msgstr "您的邮箱不会被公开。"
+
+#~ msgid "answer"
+#~ msgid_plural "answers"
+#~ msgstr[0] "回答"
+#~ msgstr[1] "回答"
+
+#~ msgid "You do not have permission to view answers"
+#~ msgstr "您没有足够的权限查看回答"
+
+#~ msgid "Please login or"
+#~ msgstr "请登录或"
+
+#~ msgid "to Submit Answer"
+#~ msgstr "提交回答"
+
+#~ msgid "View previous comments"
+#~ msgstr "查看以前的评论"
+
+#~ msgid "of"
+#~ msgstr "of"
+
+#~ msgid "Write a reply..."
+#~ msgstr "发表评论..."
+
+#~ msgid "Link to answer"
+#~ msgstr "链接到回答"
+
+#~ msgid "Draft"
+#~ msgstr "草稿"
+
+#~ msgid "This answer was flagged as spam."
+#~ msgstr "这个回答已被举报为垃圾信息。"
+
+#~ msgid "The answer link"
+#~ msgstr "回答链接"
+
+#~ msgid "Link to comment"
+#~ msgstr "链接到评论"
+
+#~ msgid "Permalink to %s"
+#~ msgstr "链接到 %s"
+
+#~ msgid "by"
+#~ msgstr "提问人："
+
+#~ msgid "&nbsp;&nbsp;<strong>&sdot;</strong>&nbsp;&nbsp;<span>Category: "
+#~ msgstr "&nbsp;&nbsp;<strong>&sdot;</strong>&nbsp;&nbsp;<span>分类："
+
+#~ msgid "view"
+#~ msgid_plural "views"
+#~ msgstr[0] "阅读"
+#~ msgstr[1] "阅读"
+
+#~ msgid "vote"
+#~ msgid_plural "votes"
+#~ msgstr[0] "投票"
+#~ msgstr[1] "投票"
+
+#~ msgid "Your question has been submitted and is currently awaiting approval"
+#~ msgstr "您的问题已提交，正在等待审批"
+
+#~ msgid "This question is currently awaiting approval"
+#~ msgstr "这个问题目前正在等待审批"
+
+#~ msgid "Unpin this Question from the top"
+#~ msgstr "在首页取消置顶这个问题"
+
+#~ msgid "Pin this Question to top"
+#~ msgstr "在首页置顶这个问题"
+
+#~ msgid "Posts by"
+#~ msgstr "发布人 "
+
+#~ msgid "All questions from"
+#~ msgstr "所有问题来自"
+
+#~ msgid "tag 1, tag 2,..."
+#~ msgstr "标签1,标签2"
+
+#~ msgid "Your question"
+#~ msgstr "您的问题"
+
+#~ msgid "How to..."
+#~ msgstr "如何 ..."
+
+#~ msgid "Post this Question as Private."
+#~ msgstr "设置为私密问题"
+
+#~ msgid "Only you as Author and Admin can see the question"
+#~ msgstr "只有您和管理员才可以看见这个问题"
+
+#~ msgid "Show a list of questions that was ordered by views."
+#~ msgstr "显示浏览次数最多的问题"
+
+#~ msgid " ago"
+#~ msgstr " 前"
+
+#~ msgid "DW Q&A Box"
+#~ msgstr "DW Q&A 盒子"
+
+#~ msgid "Container Padding"
+#~ msgstr "问答容器边距"
+
+#~ msgid "Container padding size"
+#~ msgstr "问答容器边距大小"
+
+#~ msgid ""
+#~ "By default, the container does not have a gutter. You can set padding "
+#~ "width to make a gutter. You make it by updating the setting here."
+#~ msgstr ""
+#~ "默认情况下，问答容器的四周没有边距，你可以更改这里来设置一个边距宽度。 "
+
+#~ msgid "You can ask question <a href=\""
+#~ msgstr "您可以提问 <a href=\""
+
+#~ msgid "Please <a href=\""
+#~ msgstr "请 <a href=\""
+
+#~ msgid "Stick This Question on Frontpage"
+#~ msgstr "在首页置顶这个问题"
+
+#~ msgid "Untick This Question on Frontpage"
+#~ msgstr "在首页取消置顶这个问题"
+
+#~ msgid "Website"
+#~ msgstr "网站"
+
+#~ msgid "ago"
+#~ msgstr "前"
+
+#~ msgid "YCaptcha is not correct"
+#~ msgstr "验证码不正确"
+
+#~ msgid "You need a support channel inside wordpress page?"
+#~ msgstr "您需要在 WordPress 站点中提供支持渠道？"
+
+#~ msgid "Create Submit Question Page"
+#~ msgstr "创建提交问题页面"
+
+#~ msgid "How to create submit question page?"
+#~ msgstr "如何创建提交问题页面？"
+
+#~ msgid "Go to <strong>Dashboard -> Question -> Settings</strong>"
+#~ msgstr "访问<strong>仪表盘 -> 问题 -> 设置</strong>"
+
+#~ msgid "Available Settings"
+#~ msgstr "可用的设置"
+
+#~ msgid "Go to config your support channel"
+#~ msgstr "去配置您的支持渠道"
+
+#~ msgid "Go to ...?"
+#~ msgstr "访问 ...？"
+
+#~ msgid "DesignWall Team"
+#~ msgstr "DesignWall 团队"
+
+#~ msgid "Documentations"
+#~ msgstr "文档"
+
+#~ msgid "Support"
+#~ msgstr "支持"
+
+#~ msgid "DesignWall Homepage"
+#~ msgstr "DesignWall 首页"
+
+#~ msgid "Email Template"
+#~ msgstr "邮件模板"
+
+#~ msgid "Email logo"
+#~ msgstr "邮件Logo"
+
+#~ msgid "or"
+#~ msgstr "或者"
+
+#~ msgid "to"
+#~ msgstr "来"
+
+#~ msgid "You can ask question <a href=\"%s\">here</a>"
+#~ msgstr "您可以在 <a href=\"%s\">这里</a> 提问。"
+
+#~ msgid "Category:"
+#~ msgstr "分类："
+
+#~ msgid "You got new comment for your followed"
+#~ msgstr "您收到新的评论在关注的"
+
+#~ msgid "Enable notification for new Question"
+#~ msgstr "启用新问题通知"
+
+#~ msgid "New Question Notification Subject"
+#~ msgstr "新问题通知的主题"
+
+#~ msgid "Enable notification for new Answer"
+#~ msgstr "启用新回答通知"
+
+#~ msgid "New Answer Notification Subject"
+#~ msgstr "新回答通知的主题"
+
+#~ msgid "New Comment Question Notification Subject"
+#~ msgstr "问题被评论通知的主题"
+
+#~ msgid "New comment of question notify"
+#~ msgstr "问题的新评论通知"
+
+#~ msgid "Enable notification for new comment of Answer"
+#~ msgstr "启用回答的新评论通知"
+
+#~ msgid "New Comment Answer Notification Subject"
+#~ msgstr "回答的新评论通知的主题"
+
+#~ msgid "New comment of answer notify"
+#~ msgstr "回答的新评论通知"
+
+#~ msgid "Post deleted successfully"
+#~ msgstr "所选文章已删除！"
+
+#~ msgid "Post Published"
+#~ msgstr "文章已发布！"
+
+#~ msgid "Post unpublished"
+#~ msgstr "文章已取消发布！"
+
+#~ msgid "BuddyBlog"
+#~ msgstr "成员博客"
+
+#~ msgid "Blog "
+#~ msgstr "文章"
+
+#~ msgid "%s' Posts"
+#~ msgstr "%s 的文章"
+
+#~ msgid "Profile picture of %s"
+#~ msgstr "%s 的档案图片"
+
+#~ msgid ""
+#~ "<a href=\"%1$s\" rel=\"nofollow\">%2$s</a> said on <a href=\"%3$s\"><span "
+#~ "class=\"time-since\">%4$s</span></a>"
+#~ msgstr ""
+#~ "<a href=\"%1$s\" rel=\"nofollow\">%2$s</a> 说于 <a href=\"%3$s\"><span "
+#~ "class=\"time-since\">%4$s</span></a>"
+
+#~ msgid "BuddyBlog Settings"
+#~ msgstr "BuddyBlog设置"
+
+#~ msgid "Settings updated successfully."
+#~ msgstr "设置已保存！"
+
+#~ msgid ""
+#~ "Please Install <a href=\"http://buddydev.com/plugins/bp-simple-front-end-"
+#~ "post/\"> BP Simple Front End Post Plugin to make the editing "
+#~ "functionality work."
+#~ msgstr ""
+#~ "请安装 <a href=\"http://buddydev.com/plugins/bp-simple-front-end-post/\"> "
+#~ "BP Simple Front End Post 插件来激活这个功能。"
+
+#~ msgid "Edit this post"
+#~ msgstr "编辑文章"
+
+#~ msgid "<span class=\"time\"><i class=\"icon-time\"></i>%1$s</span>"
+#~ msgstr "<span class=\"time\"><i class=\"icon-time\"></i>%1$s</span>"
+
+#~ msgid "Postend on %1$s"
+#~ msgstr "Postend on %1$s"
+
+#~ msgctxt "Sticky post"
+#~ msgid "Featured"
+#~ msgstr "置顶"
+
+#~ msgid "%1$s <span>in %2$s</span>"
+#~ msgstr "%1$s <span>在 %2$s</span>"
+
+#~ msgid "Read the rest of this entry &rarr;"
+#~ msgstr "阅读全文&rarr;"
+
+#~ msgid "Pages: "
+#~ msgstr "页面："
+
+#~ msgid "% Comments &#187;"
+#~ msgstr "% 条评论 &#187;"
+
+#~ msgid ""
+#~ "There are no posts by this user at the moment. Please check back later"
+#~ msgstr "当前用户还没有发布文章，请稍后再看看"
+
+#~ msgid "You haven't posted anything yet. "
+#~ msgstr "你目前还没有发布任何文章。"
+
+#~ msgid "The Security check failed!"
+#~ msgstr "安全检查失败！"
+
+#~ msgid "You are not authorized for the action!"
+#~ msgstr "你没有操作权限！"
+
+#~ msgid "Please make sure to fill the required fields"
+#~ msgstr "请务必填写所需的字段"
+
+#~ msgid "%s Saved as %s successfully."
+#~ msgstr "%s 成功保存为 %s"
+
+#~ msgid "There was a problem saving your %s. Please try again later."
+#~ msgstr "保存 %s 出错了，请稍后再试。"
+
+#~ msgid "Select %s"
+#~ msgstr "选择 %s"
+
+#~ msgid "Extra Info"
+#~ msgstr "额外信息"
+
+#~ msgid "WP Security"
+#~ msgstr "WP安全"
+
+#~ msgid "Dashboard"
+#~ msgstr "仪表盘"
+
+#, fuzzy
+#~ msgid "User Accounts"
+#~ msgstr "借记用户帐户"
+
+#~ msgid "Database Security"
+#~ msgstr "数据库安全"
+
+#~ msgid "Filesystem Security"
+#~ msgstr "文件系统安全"
+
+#~ msgid "WHOIS Lookup"
+#~ msgstr "WHOIS查询"
+
+#~ msgid "Blacklist Manager"
+#~ msgstr "黑名单管理"
+
+#~ msgid "Firewall"
+#~ msgstr "防火墙"
+
+#~ msgid "Maintenance"
+#~ msgstr "维护模式"
+
+#~ msgid "Nonce check failed for save blacklist settings!"
+#~ msgstr ""
+#~ "保存黑名单时杜撰检查失败（Nonce check failed for save blacklist "
+#~ "settings!）"
+
+#~ msgid ""
+#~ "The plugin was unable to write to the .htaccess file. Please edit file "
+#~ "manually."
+#~ msgstr "插件无法写入  .htaccess 文件，请自己手动修改。"
+
+#~ msgid "Ban IPs or User Agents"
+#~ msgstr "禁止IP或用户代理"
+
+#~ msgid ""
+#~ "The All In One WP Security Blacklist feature gives you the option of "
+#~ "banning certain host IP addresses or ranges and also user agents."
+#~ msgstr ""
+#~ "黑名单功能，可以让您选择禁止某些主机的IP地址、IP段范围和用户代理（User "
+#~ "Agent ）。"
+
+#~ msgid ""
+#~ "This feature will deny total site access for users which have IP "
+#~ "addresses or user agents matching those which you have configured in the "
+#~ "settings below."
+#~ msgstr "所有在黑名单中的 IP 或 用户代理 都无法访问你的网站"
+
+#~ msgid ""
+#~ "The plugin achieves this by making appropriate modifications to your ."
+#~ "htaccess file."
+#~ msgstr "该插件通过适当修改你的 .htaccess 来实现黑名单限制。"
+
+#~ msgid ""
+#~ "By blocking people via the .htaccess file your are using the most secure "
+#~ "first line of defence which denies all access to blacklisted visitors as "
+#~ "soon as they hit your hosting server."
+#~ msgstr ""
+#~ "通过 .htaccess 限制访问是使用的最多网站安全防护手段，也是阻止所有黑名单访"
+#~ "客攻击你的网站托管服务器的第一道防线。"
+
+#~ msgid "IP Hosts and User Agent Blacklist Settings"
+#~ msgstr "IP主机和用户代理黑名单设置"
+
+#~ msgid "Enable IP or User Agent Blacklisting"
+#~ msgstr "启用IP或用户代理黑名单"
+
+#~ msgid ""
+#~ "Check this if you want to enable the banning (or blacklisting) of "
+#~ "selected IP addresses and/or user agents specified in the settings below"
+#~ msgstr ""
+#~ "如果你要启用“禁止（或黑名单）所选定的IP地址和/或用户代理”，请选择此项"
+
+#~ msgid "Enter IP Addresses:"
+#~ msgstr "输入 IP 地址："
+
+#~ msgid "Enter one or more IP addresses or IP ranges."
+#~ msgstr "输入一个或多个 IP 地址 或 IP 段"
+
+#~ msgid "Each IP address must be on a new line."
+#~ msgstr "每行一个 IP 地址"
+
+#~ msgid ""
+#~ "To specify an IP range use a wildcard \"*\" character. Acceptable ways to "
+#~ "use wildcards is shown in the examples below:"
+#~ msgstr "请使用一个通配符\"*\"来指定一个IP段，下面是一些有效的例子："
+
+#~ msgid "Example 1: 195.47.89.*"
+#~ msgstr "例1： 195.47.89.*"
+
+#~ msgid "Example 2: 195.47.*.*"
+#~ msgstr "例2：195.47.*.*"
+
+#~ msgid "Example 3: 195.*.*.*"
+#~ msgstr "例3：195.*.*.*"
+
+#, fuzzy
+#~ msgid "Enter User Agents:"
+#~ msgstr "编辑用户信息"
+
+#~ msgid "Enter one or more user agent strings."
+#~ msgstr "输入一个或多个用户代理："
+
+#~ msgid "Each user agent string must be on a new line."
+#~ msgstr "每行一个用户代理"
+
+#~ msgid "Example 1 - A single user agent string to block:"
+#~ msgstr "例1 - 禁止单个用户代理："
+
+#~ msgid "Example 2 - A list of more than 1 user agent strings to block"
+#~ msgstr "例2 - 禁止多个用户代理："
+
+#~ msgid "Nonce check failed for list SPAM comment IPs!"
+#~ msgstr "Nonce check failed for list SPAM comment IPs!"
+
+#, fuzzy
+#~ msgid "Attention!"
+#~ msgstr "信息"
+
+#, fuzzy
+#~ msgid "Admin Username"
+#~ msgstr "用户名"
+
+#, fuzzy
+#~ msgid "Plugin URL"
+#~ msgstr "链接URL"
+
+#, fuzzy
+#~ msgid "Recommended Action"
+#~ msgstr "添加信息"
+
+#, fuzzy
+#~ msgid "Firewall Settings"
+#~ msgstr "好友设置"
+
+#, fuzzy
+#~ msgid "Basic Firewall Settings"
+#~ msgstr "横幅设置"
+
+#, fuzzy
+#~ msgid "Bad Query Strings"
+#~ msgstr "横幅设置"
+
+#, fuzzy
+#~ msgid "Save 5G Firewall Settings"
+#~ msgstr "横幅设置"
+
+#, fuzzy
+#~ msgid "Save Feature Settings"
+#~ msgstr "横幅设置"
+
+#, fuzzy
+#~ msgid "Site lockout feature settings saved!"
+#~ msgstr "联盟设置已保存"
+
+#, fuzzy
+#~ msgid "Enter a Message:"
+#~ msgstr "编辑用户信息"
+
+#, fuzzy
+#~ msgid "Change Username"
+#~ msgstr "用户名"
+
+#, fuzzy
+#~ msgid "Username "
+#~ msgstr "用户名"
+
+#, fuzzy
+#~ msgid "Bulk Actions"
+#~ msgstr "信息"
+
+#~ msgid "Apply"
+#~ msgstr "应用"
+
+#, fuzzy
+#~ msgid "%s pending"
+#~ msgstr "审核中"
+
+#, fuzzy
+#~ msgid "<strong>ERROR</strong>: The username field is empty."
+#~ msgstr "<strong>头像</strong> - 用户的头像"
+
+#, fuzzy
+#~ msgid "Username: "
+#~ msgstr "用户名"
+
+#, fuzzy
+#~ msgid "Please log back in to continue."
+#~ msgstr "请选择要取消暂停的信息"
+
+#~ msgid "Messages"
+#~ msgstr "信息"
+
+#~ msgid "User added to Automessage queue."
+#~ msgstr "添加到自动信息队列的用户"
+
+#~ msgid "User could not be added to Automessage queue."
+#~ msgstr "无法添加用户到自动信息队列"
+
+#~ msgid "Blog admin added to Automessage queue."
+#~ msgstr "添加到自动信息队列的博客管理员"
+
+#~ msgid "Blog admin could not be added to Automessage queue."
+#~ msgstr "无法添加博客管理员到自动信息队列"
+
+#~ msgid "Add user to Automessage queue"
+#~ msgstr "添加用户到自动信息队列"
+
+#~ msgid "Add blog to Automessage queue"
+#~ msgstr "添加博客到自动信息队列"
+
+#~ msgid "Automessage"
+#~ msgstr "自动信息"
+
+#~ msgid "Edit Blog Messages"
+#~ msgstr "编辑博客信息"
+
+#~ msgid "Blog Level Messages"
+#~ msgstr "博客级别信息"
+
+#~ msgid "User Level Messages"
+#~ msgstr "用户级别信息"
+
+#~ msgid "Your action has been added to the schedule."
+#~ msgstr "你的信息已经被添加到计划中"
+
+#~ msgid "Your action could not be added."
+#~ msgstr "你的信息无法添加"
+
+#~ msgid "The scheduled action has been unpaused"
+#~ msgstr "计划的信息已取消暂停"
+
+#~ msgid "Please select an action to delete"
+#~ msgstr "请选择要删除的信息"
+
+#~ msgid "The scheduled actions have been paused"
+#~ msgstr "计划的信息已被暂停"
+
+#~ msgid "Please select an action to pause"
+#~ msgstr "请选择要暂停的信息"
+
+#~ msgid "The scheduled actions have been unpaused"
+#~ msgstr "计划的信息已被取消暂停"
+
+#~ msgid "The scheduled actions have been processed"
+#~ msgstr "计划的信息已被处理"
+
+#~ msgid "Please select an action to process"
+#~ msgstr "请选择要处理的信息"
+
+#~ msgid "The scheduled action has been deleted"
+#~ msgstr "计划的信息已被删除"
+
+#~ msgid "The scheduled action has been updated"
+#~ msgstr "计划的信息已更新"
+
+#~ msgid "The scheduled action has been processed"
+#~ msgstr "计划的信息已处理"
+
+#~ msgid "Create new blog"
+#~ msgstr "新建博客"
+
+#~ msgid "Create new user"
+#~ msgstr "新建用户"
+
+#~ msgid "Message delay"
+#~ msgstr "信息延时"
+
+#~ msgid "Send immediately"
+#~ msgstr "立即发送"
+
+#~ msgid "1 day"
+#~ msgstr "1 天"
+
+#~ msgid "Message Subject"
+#~ msgstr "信息主题"
+
+#~ msgid "Message"
+#~ msgstr "信息"
+
+#~ msgid ""
+#~ "You can use the following constants within the message body to embed "
+#~ "database information."
+#~ msgstr "可以使用下面的常量在邮件正文中嵌入数据库信息。"
+
+#~ msgid "Time delay"
+#~ msgstr "延时"
+
+#~ msgid "Subject"
+#~ msgstr "主题"
+
+#~ msgid "Queued"
+#~ msgstr "排队"
+
+#~ msgid "[Paused] "
+#~ msgstr "[暂停]"
+
+#~ msgid "Pause this message"
+#~ msgstr "暂停此信息"
+
+#~ msgid "Pause"
+#~ msgstr "暂停"
+
+#~ msgid "Unpause this message"
+#~ msgstr "取消暂停此信息"
+
+#~ msgid "Unpause"
+#~ msgstr "取消暂停"
+
+#~ msgid "Process this message"
+#~ msgstr "处理此信息"
+
+#~ msgid "Process"
+#~ msgstr "处理"
+
+#~ msgid "Immediate"
+#~ msgstr "即时"
+
+#~ msgid "%d %s"
+#~ msgstr "%d %s"
+
+#~ msgid "%d %ss"
+#~ msgstr "%d %s"
+
+#~ msgid "No actions set for this level."
+#~ msgstr "还没有为此级别添加信息"
+
+#~ msgid "You are running Automessage version "
+#~ msgstr "你所用的自动信息插件版本为 "
+
+#~ msgid "Debug mode is "
+#~ msgstr "调试模式 "
+
+#~ msgid "Disabled"
+#~ msgstr "已禁用"
+
+#~ msgid "Automessage dashboard"
+#~ msgstr "自动信息仪表盘"
+
+#~ msgid "Notice: Processing stopped due to %d second timeout."
+#~ msgstr "注意：超时 %d 秒后停止处理"
+
+#~ msgid ""
+#~ "To stop receiving messages from %sitename% click on the following link: "
+#~ "%siteurl%/unsubscribe/"
+#~ msgstr ""
+#~ "如果不想再接收来自 %sitename% 的信息，请点击下面的链接：%siteurl%/"
+#~ "unsubscribe/"
+
+#~ msgid "Unsubscribe request processed"
+#~ msgstr "取消订阅的请求已处理"
+
+#~ msgid ""
+#~ "Your unsubscribe request has been processed and you have been removed "
+#~ "from our mailing list.\n"
+#~ "\n"
+#~ "Thank you\n"
+#~ "\n"
+#~ msgstr ""
+#~ "你的取消订阅的请求已被处理，已将你从邮件列表中删除\n"
+#~ "\n"
+#~ "谢谢\n"
+#~ "\n"
+
+#~ msgid ""
+#~ "You have a previous install of Automessage on this server to migrate from."
+#~ msgstr "你在此服务器上有一个以前安装的自动信息可迁移。"
+
+#~ msgid ""
+#~ "Click on the button below to start a migration. This may take some time."
+#~ msgstr "点击下面的按钮开始迁移。这可能需要一些时间。"
+
+#~ msgid "Migrating data."
+#~ msgstr "迁移数据"
+
+#~ msgid "Please wait whilst we migrate your data."
+#~ msgstr "数据正在迁移，请稍等。"
+
+#~ msgid "Moving blog level messages..."
+#~ msgstr "移动博客级别信息..."
+
+#~ msgid "Moving user level messages..."
+#~ msgstr "移动用户级别信息..."
+
+#~ msgid "Migration complete."
+#~ msgstr "迁移完成。"
+
+#~ msgid ""
+#~ "You have not got a previous install of Automessage on this server to "
+#~ "migrate from."
+#~ msgstr "你在此服务器上没有一个以前安装的自动信息可迁移。"
+
+#~ msgid "Affiliate Debug : "
+#~ msgstr "联盟调试："
+
+#~ msgid "I have recorded a cookie from <strong>"
+#~ msgstr "我已经记录了一个 cookie 来自 <strong>"
+
+#~ msgid ""
+#~ "</strong>. Any purchases will be assigned to that account for <strong>"
+#~ msgstr "</strong>。在点击链接 <strong>"
+
+#~ msgid "</strong> days after the click."
+#~ msgstr "天内的任何购买，将分配到该账户。"
+
+#~ msgid ""
+#~ "The <strong>Not via an Affiliate</strong> cookie has been set. I am "
+#~ "ignoring any future affiliate clicks for this browser session."
+#~ msgstr ""
+#~ "<strong>Not via an Affiliate</strong> cookie 已经设置。我将忽略这个浏览器"
+#~ "会话中的联盟点击。"
+
+#~ msgid "No cookies are currently set - I am looking for cookies at : "
+#~ msgstr "目前没有设置任何 cookies - 我在寻在cookies："
+
+#~ msgid ""
+#~ "You can set the global commision amount paid to affiliates for referred "
+#~ "purchases below. Set it to 0 for no payments."
+#~ msgstr ""
+#~ "你可以设置用来支付给联盟推介购买的全局佣金金额。设为 0 将不支付佣金。"
+
+#~ msgid "Set percentage to be paid to affiliates"
+#~ msgstr "设置联盟佣金百分比"
+
+#~ msgid "%"
+#~ msgstr "%"
+
+#~ msgid "Affiliate payment credited for a signup on this subscription"
+#~ msgstr "通过这个订阅地址注册所支付的联盟佣金"
+
+#~ msgid "Supporter payments settings"
+#~ msgstr "支持者付款设置"
+
+#~ msgid "1 Month payment"
+#~ msgstr "1个月付款"
+
+#~ msgid "Affiliate payment for one month."
+#~ msgstr "1个月联盟付款"
+
+#~ msgid "3 Month payment"
+#~ msgstr "3个月付款"
+
+#~ msgid "Affiliate payment for three months."
+#~ msgstr "3个月联盟付款"
+
+#~ msgid "12 Month payment"
+#~ msgstr "12个月付款"
+
+#~ msgid "Affiliate payment for twelve months."
+#~ msgstr "12个月联盟付款"
+
+#~ msgid "Unique Clicks"
+#~ msgstr "点击数"
+
+#~ msgid "Sign ups"
+#~ msgstr "注册数"
+
+#~ msgid "Affiliates"
+#~ msgstr "联盟"
+
+#~ msgid "Manage Affiliates"
+#~ msgstr "管理联盟"
+
+#~ msgid "Add-ons"
+#~ msgstr "扩展"
+
+#~ msgid "Affiliate Reports"
+#~ msgstr "联盟报告"
+
+#~ msgid "Affiliate Earnings Report"
+#~ msgstr "联盟收入报告"
+
+#~ msgid "Affiliate Referrals"
+#~ msgstr "联盟推荐"
+
+#~ msgid "Affiliate Banners"
+#~ msgstr "联盟广告"
+
+#~ msgid "Debits"
+#~ msgstr "借记"
+
+#~ msgid "Payments"
+#~ msgstr "付款"
+
+#~ msgid "This URL is already in use."
+#~ msgstr "这个链接已使用"
+
+#~ msgid "Validated"
+#~ msgstr "已验证"
+
+#~ msgid "Not validated"
+#~ msgstr "未验证"
+
+#~ msgid "Affiliate Referral Report"
+#~ msgstr "联盟推荐报告"
+
+#~ msgid ""
+#~ "Hello, Thank you for supporting us</strong>, to view or change any of "
+#~ "your affiliate settings click on the edit link."
+#~ msgstr ""
+#~ "你好，非常感谢支持我们</strong>，你可以点击右边的“编辑”链接查看或修改你的"
+#~ "联盟设置"
+
+#~ msgid "edit"
+#~ msgstr "编辑"
+
+#~ msgid ""
+#~ "<p>We love it when people talk about us, and even more so when they "
+#~ "recommend us to their friends.</p>\n"
+#~ "\t\t\t<p>As a thank you we would like to offer something back, which is "
+#~ "why we have set up this affiliate program.</p>\n"
+#~ "\t\t\t<p>To get started simply enable the links for your account and "
+#~ "enter your PayPal email address below, for more details on our affiliate "
+#~ "program please visit our main site.</p>"
+#~ msgstr ""
+#~ "<p>我们很乐意别人谈论我们，甚至推荐我们给他们的朋友。</p>\n"
+#~ "\t\t\t<p>作为感谢，我们希望给你们一些回馈，这就是为什么我们要安装这个联盟"
+#~ "系统。</p>\n"
+#~ "\t\t\t<p>你只需要为你的账户设置一个链接，然后在下面输入 PayPal 邮箱地址。"
+#~ "要了解联盟计划的更多详情，请访问我们的主网站。</p>"
+
+#~ msgid "Enable Affiliate links"
+#~ msgstr "启用联盟链接"
+
+#~ msgid "Yes please"
+#~ msgstr "是"
+
+#~ msgid "No thanks"
+#~ msgstr "否"
+
+#~ msgid "Affiliate Advanced Settings"
+#~ msgstr "联盟高级设置"
+
+#~ msgid ""
+#~ "<p>There are times when you would rather hide your affiliate link, or "
+#~ "simply not have to bother remembering the affiliate reference to put on "
+#~ "the end of our URL.</p>\n"
+#~ "\t\t\t\t\t<p>If this is the case, then you can enter the main URL of the "
+#~ "site you will be sending requests from below, and we will sort out the "
+#~ "tricky bits for you.</p>"
+#~ msgstr ""
+#~ "<p>有时候，你宁愿隐藏你的联盟链接，或者干脆不必费心记住添加到我们网址链接"
+#~ "后面的联盟参数。</p>\n"
+#~ "\t\t\t\t\t<p>如果是这样的话，你可以在下面输入你网站的链接URL，我们将为你去"
+#~ "掉后面的联盟参数。</p>"
+
+#~ msgid "Your URL"
+#~ msgstr "你的链接"
+
+#~ msgid ""
+#~ "You need to validate this URL by uploading a file to the root of the site "
+#~ "above with the following name : "
+#~ msgstr "你需要上传一个文件到你的网站根目录，以便验证这个链接，该文件名为："
+
+#~ msgid "Filename : "
+#~ msgstr "文件名："
+
+#~ msgid "[click here to check if the file exists]"
+#~ msgstr "[ 点击这里验证文件是否存在 ]"
+
+#~ msgid "Validate"
+#~ msgstr "验证"
+
+#~ msgid "<h3>Affiliate Details</h3>"
+#~ msgstr "<h3>联盟详情</h3>"
+
+#~ msgid ""
+#~ "In order for us to track your referrals, you should use the following URL "
+#~ "to link to our site:"
+#~ msgstr "为了让我们统计你的推荐，你应该使用下面的URL链接到我们的网站。"
+
+#~ msgid "<strong>%s?ref=%s</strong>"
+#~ msgstr "<strong>%s?ref=%s</strong>"
+
+#~ msgid ""
+#~ "Alternatively you can just link directly to the URL below from the site "
+#~ "you entered in the advanced settings above:"
+#~ msgstr "此外，你可以从上面高级设置中所输入的网站，直接链接到下面的URL："
+
+#~ msgid ""
+#~ "If you would rather use a banner or button then we have a wide selection "
+#~ "of sizes <a href=\"%s\">here</a>."
+#~ msgstr ""
+#~ "如果你宁愿使用横幅或按钮，那么我们有多种尺寸可供选择，你可以在 <a href="
+#~ "\"%s\">这里</a> 进行选择。"
+
+#~ msgid ""
+#~ "<strong>You can check on your referral totals by viewing the details on "
+#~ "this page</strong>"
+#~ msgstr "<strong>你可以在这个页面查看你所有推荐详情</strong>"
+
+#~ msgid "Hello, why not consider becoming an affiliate?"
+#~ msgstr "你好，为什么不考虑成为一个联盟会员呢？"
+
+#~ msgid "Date"
+#~ msgstr "日期"
+
+#~ msgid "Top referrers for "
+#~ msgstr "热门推荐"
+
+#~ msgid "Visits"
+#~ msgstr "访问"
+
+#~ msgid ""
+#~ "<tr><td colspan=\"2\">You have no referred visits this month.</td></tr>"
+#~ msgstr "<tr><td colspan=\"2\">你这个月没有任何推荐访问</td></tr>"
+
+#~ msgid "Top referrers over past 18 months"
+#~ msgstr "过去 18 个月的热门推荐"
+
+#~ msgid "<tr><td colspan=\"2\">You have no overall referred visits.</td></tr>"
+#~ msgstr "<tr><td colspan=\"2\">你没有整体推荐访问</td></tr>"
+
+#~ msgid ""
+#~ "So, you want something more exciting than a straight forward text link?"
+#~ msgstr "所以，你想要比直接的文本链接更吸引人的东西？"
+
+#~ msgid ""
+#~ "Not to worry, we've got banners and buttons galore. To use them simply "
+#~ "copy and paste the HTML underneath the graphic that you want to use."
+#~ msgstr ""
+#~ "不必担心，我们已经准备了漂亮的横幅和按钮供你选择。你只需要复制下面的HTML代"
+#~ "码，然后粘贴到你的网站即可。"
+
+#~ msgid "Affiliate payment for"
+#~ msgstr "联盟付款给"
+
+#~ msgid "Affiliate payment for "
+#~ msgstr "联盟付款给"
+
+#~ msgid "Affiliate Link URL"
+#~ msgstr "联盟链接URL"
+
+#~ msgid "Profile page text"
+#~ msgstr "个人资料页文本"
+
+#~ msgid ""
+#~ "<p>We love it when people talk about us, and even more so when they "
+#~ "recommend us to their friends.</p>\n"
+#~ "<p>As a thank you we would like to offer something back, which is why we "
+#~ "have set up this affiliate program.</p>\n"
+#~ "<p>To get started simply enable the links for your account and enter your "
+#~ "PayPal email address below, for more details on our affiliate program "
+#~ "please visit our main site.</p>"
+#~ msgstr ""
+#~ "<p>我们很乐意别人谈论我们，甚至推荐我们给他们的朋友。</p>\n"
+#~ "<p>作为感谢，我们希望给你们一些回馈，这就是为什么我们要安装这个联盟系统。"
+#~ "</p>\n"
+#~ "<p>你只需要为你的账户设置一个链接，然后在下面输入 PayPal 邮箱地址。要了解"
+#~ "联盟计划的更多详情，请访问我们的主网站。</p>"
+
+#~ msgid "Affiliate settings profile text"
+#~ msgstr "联盟设置个人资料文本"
+
+#~ msgid ""
+#~ "<p>There are times when you would rather hide your affiliate link, or "
+#~ "simply not have to bother remembering the affiliate reference to put on "
+#~ "the end of our URL.</p>\n"
+#~ "<p>If this is the case, then you can enter the main URL of the site you "
+#~ "will be sending requests from below, and we will sort out the tricky bits "
+#~ "for you.</p>"
+#~ msgstr ""
+#~ "<p>有时候，你宁愿隐藏你的联盟链接，或者干脆不必费心记住添加到我们网址链接"
+#~ "后面的联盟参数。</p>\n"
+#~ "<p>如果是这样的话，你可以输入网站的主链接，从下面的网址发送请求，我们将为"
+#~ "你理清棘手的位。</p>"
+
+#~ msgid "Affiliate advanced settings profile text"
+#~ msgstr "联盟高级设置个人资料文本"
+
+#~ msgid "Enable Banners"
+#~ msgstr "启用横幅广告"
+
+#~ msgid "Banner Image URLs (one per line)"
+#~ msgstr "横幅图片链接（每行一个）"
+
+#~ msgid "Approval Settings"
+#~ msgstr "批准设置"
+
+#~ msgid ""
+#~ "If you want to delay payouts to affiliates until they have been manually "
+#~ "approved then set this option below. "
+#~ msgstr "如果你想手动批准后再进行联盟支付，请设置下面的选项。"
+
+#~ msgid ""
+#~ "Affiliates will still be able to generate leads, whilst they are waiting "
+#~ "to be approved."
+#~ msgstr "联盟即使还在等待批准，仍可以正常生成引导"
+
+#~ msgid "Pay only approved affiliates"
+#~ msgstr "只支付批准的联盟"
+
+#~ msgid "Debit has been assigned correctly."
+#~ msgstr "借记已分配正确"
+
+#~ msgid "Credit has been assigned correctly."
+#~ msgstr "信用已分配正确"
+
+#~ msgid "Payment has been assigned correctly."
+#~ msgstr "付款已正确分配"
+
+#~ msgid "Details for user : "
+#~ msgstr "用户的详情："
+
+#~ msgid "linked to "
+#~ msgstr "链接到"
+
+#~ msgid "Approve user account"
+#~ msgstr "批准用户帐户"
+
+#~ msgid "not approved"
+#~ msgstr "未批准"
+
+#~ msgid "approved"
+#~ msgstr "已批准"
+
+#~ msgid " to receive affiliate payments."
+#~ msgstr "接收联盟付款。"
+
+#~ msgid "Period : "
+#~ msgstr "时间："
+
+#~ msgid "Value : "
+#~ msgstr "价值："
+
+#~ msgid "Credit user account"
+#~ msgstr "信用卡用户帐户"
+
+#~ msgid "Add Credit"
+#~ msgstr "添加信用卡"
+
+#~ msgid "Set Payment on account"
+#~ msgstr "设置帐户的付款"
+
+#~ msgid "Add Payment"
+#~ msgstr "添加付款"
+
+#~ msgid "Find user with username"
+#~ msgstr "通过用户名查找用户"
+
+#~ msgid "Manage Affiliate"
+#~ msgstr "管理联盟"
+
+#~ msgid "There are no users matching the search criteria."
+#~ msgstr "没有符合搜索条件的用户"
+
+#~ msgid "Affiliate reports"
+#~ msgstr "联盟报告"
+
+#~ msgid "Manage affiliates"
+#~ msgstr "管理联盟"
+
+#~ msgid "Manage add-ons"
+#~ msgstr "管理扩展"
+
+#~ msgid "Affiliate System Administration"
+#~ msgstr "联盟系统管理"
+
+#~ msgid "Payments has been assigned correctly."
+#~ msgstr "付款已分配正确"
+
+#~ msgid "Show report for"
+#~ msgstr "显示报告给"
+
+#~ msgid "Refresh"
+#~ msgstr "刷新"
+
+#~ msgid "Export Payments"
+#~ msgstr "导出付款"
+
+#~ msgid "Mark as Paid"
+#~ msgstr "标记为已支付"
+
+#~ msgid "There are no results for the selected month."
+#~ msgstr "所选月份没有任何结果"
+
+#~ msgid "Referred by"
+#~ msgstr "推荐人："
+
+#~ msgid "Addon updated."
+#~ msgstr "扩展已更新"
+
+#~ msgid "Addon not updated."
+#~ msgstr "扩展未更新"
+
+#~ msgid "Addon deactivated."
+#~ msgstr "扩展已停用"
+
+#~ msgid "Addon not deactivated."
+#~ msgstr "扩展未停用"
+
+#~ msgid "Addon activation toggled."
+#~ msgstr "扩展状态已切换"
+
+#~ msgid "Toggle activation"
+#~ msgstr "切换状态"
+
+#~ msgid "Deactivate"
+#~ msgstr "停用"
+
+#~ msgid "Network Activate"
+#~ msgstr "网络启用"
+
+#~ msgid "Inactive"
+#~ msgstr "未启用"
+
+#~ msgid "Referred"
+#~ msgstr "推荐"
+
+#~ msgid "Affiliate Report"
+#~ msgstr "联盟报告"
+
+#~ msgid ""
+#~ "You are not currently logged in. Please %s to see your affiliate "
+#~ "information."
+#~ msgstr "你目前还没有登录，请 %s 后查看联盟信息。"
+
+#~ msgid ""
+#~ "<p>We love it when people talk about us, and even more so when they "
+#~ "recommend us to their friends.</p><p>As a thank you we would like to "
+#~ "offer something back, which is why we have set up this affiliate program."
+#~ "</p><p>To get started simply enable the links for your account and enter "
+#~ "your PayPal email address below, for more details on our affiliate "
+#~ "program please visit our main site.</p>"
+#~ msgstr ""
+#~ "<p>我们很乐意别人谈论我们，甚至推荐我们给他们的朋友。</p><p>作为感谢，我们"
+#~ "希望给你们一些回馈，这就是为什么我们要安装这个联盟系统。</p><p>你只需要为"
+#~ "你的账户设置一个链接，然后在下面输入 PayPal 邮箱地址。要了解联盟计划的更多"
+#~ "详情，请访问我们的主网站。</p>"
+
+#~ msgid ""
+#~ "<p>We love it when people talk about us, and even more so when they "
+#~ "recommend us to their friends.</p>\n"
+#~ "\t\t<p>As a thank you we would like to offer something back, which is why "
+#~ "we have set up this affiliate program.</p>\n"
+#~ "\t\t<p>To get started simply enable the links for your account and enter "
+#~ "your PayPal email address below, for more details on our affiliate "
+#~ "program please visit our main site.</p>"
+#~ msgstr ""
+#~ "<p>我们很乐意别人谈论我们，甚至推荐我们给他们的朋友。</p>\n"
+#~ "\t\t\t<p>作为感谢，我们希望给你们一些回馈，这就是为什么我们要安装这个联盟"
+#~ "系统。</p>\n"
+#~ "\t\t\t<p>你只需要为你的账户设置一个链接，然后在下面输入 PayPal 邮箱地址。"
+#~ "要了解联盟计划的更多详情，请访问我们的主网站。</p>"
+
+#~ msgid "Yes"
+#~ msgstr "Yes"
+
+#~ msgid "No"
+#~ msgstr "No"
+
+#~ msgid "Receive an email when someone adds you as a friend"
+#~ msgstr "当有人添加你为好友，发送邮件通知"
+
+#~ msgid "Friends"
+#~ msgstr "好友"
+
+#~ msgid "Find Friends"
+#~ msgstr "找好友"
+
+#~ msgid "Friend Requests"
+#~ msgstr "好友请求"
+
+#~ msgid "Friend Removed"
+#~ msgstr "删除好友"
+
+#~ msgid "Friend will be added pending approval."
+#~ msgstr "好友将在审核同意后添加"
+
+#~ msgid "Friend Request Rejected"
+#~ msgstr "好友请求被拒绝"
+
+#~ msgid "Quick Message Success."
+#~ msgstr "信息发送成功"
+
+#~ msgid "Quick Message Failed."
+#~ msgstr "信息发送失败"
+
+#~ msgid "Email Approval Template"
+#~ msgstr "邮件同意模板"
+
+#~ msgid "Email Rejection Template"
+#~ msgstr "邮件拒绝模板"
+
+#~ msgid ""
+#~ "The Friends plugin lets users connect with other users within the "
+#~ "WordPress Multisite environment. Once connected friends can send message "
+#~ "to each other. Also available is a handy widget to display a user's "
+#~ "friends listing"
+#~ msgstr ""
+#~ "这个好友插件可以让多站点之间的用户相互联系。一旦成为好友，就可以相互间发送"
+#~ "信息。当然，也包含一个不错的小工具，用来显示用户的好友列表。"
+
+#~ msgid ""
+#~ "The Friends listing page will show all user your have connections with. "
+#~ "From the listing you can send messages to users. Also you can remove "
+#~ "users who may have become unfriendly."
+#~ msgstr ""
+#~ "好友列表页面将显示你所添加的所有好友，你可以通过这个页面给好友发送信息，你"
+#~ "还可以删除那些不友好的用户。"
+
+#~ msgid "<strong>Friend</strong> - This is the user's display name."
+#~ msgstr "<strong>好友</strong> - 用户的昵称"
+
+#~ msgid ""
+#~ "<strong>Send Message</strong> - Once you are connected to other friends "
+#~ "you can send them messages."
+#~ msgstr ""
+#~ "<strong>发送信息</strong> - 一旦你成功添加对方为好友，就可以给他们发送信息"
+
+#~ msgid "<strong>View Blog</strong> - View the user's blog"
+#~ msgstr "<strong>查看博客</strong> - 查看用户博客"
+
+#~ msgid "<strong>Remove</strong> - Allows you to remove the user as a friend."
+#~ msgstr "<strong>移除</strong> - 允许你删除好友"
+
+#~ msgid ""
+#~ "Using the search on this page you can search for other users within this "
+#~ "Multisite system. You can locate other user by searching for Name, Login "
+#~ "or Email. Click the Search button and all matching users will be listed. "
+#~ "Beside each user will be an Add link which will create a request to the "
+#~ "user. The user will need to accept the request to complete the friend "
+#~ "connection. Within the list if you see Pending instead of Add this means "
+#~ "the friend request has already been sent to this user."
+#~ msgstr ""
+#~ "通过这个页面搜索，你可以找到这个多站点网络中的其他用户。输入用户姓名、登录"
+#~ "名或电子邮件，点击“搜索”按钮，就可以显示符合条件的用户。每个用户都有一"
+#~ "个“加为好友”的链接，你可以快速提交好友申请，对方审核通过后就可以了。如果在"
+#~ "列表显示“审核中”，而不是“加为好友”，意味着你已经给该用户发送了好友请求。"
+
+#~ msgid ""
+#~ "When another user requests you to be their friend they will be listed on "
+#~ "this page. To complete the friend connection you must approve the "
+#~ "request. You may also opt to reject the request."
+#~ msgstr ""
+#~ "当其他用户求情加你为好友时，他们会显示在这个页面。你可以审核同意或者拒绝请"
+#~ "求。"
+
+#~ msgid ""
+#~ "This page contains various metaboxes to let you control the email "
+#~ "templates used during the friend connection processing."
+#~ msgstr ""
+#~ "该页面包含各种 Meta 模块，你可以通过它们设计邮件模板，以便在好友链接管理中"
+#~ "使用。"
+
+#~ msgid ""
+#~ "<strong>Email Request Template</strong> - This template contains the "
+#~ "Subject and Content used when one user requests to be friend's with "
+#~ "another user. "
+#~ msgstr ""
+#~ "<strong>邮件请求模板</strong> - 这个模板是给用户发送好友请求时用的，可以定"
+#~ "义邮件主题和内容。"
+
+#~ msgid ""
+#~ "<strong>Email Approval Template</strong> - This template contains the "
+#~ "Subject and Content used when one user approves a friend request from "
+#~ "another user. "
+#~ msgstr ""
+#~ "<strong>邮件同意模板</strong> - 这个模板是给用户同意好友请求时用的，可以定"
+#~ "义邮件主题和内容。"
+
+#~ msgid ""
+#~ "<strong>Email Rejection Template</strong> - This template contains the "
+#~ "Subject and Content used when one user rejects a friend request from "
+#~ "another user. "
+#~ msgstr ""
+#~ "<strong>邮件拒绝模板</strong> - 这个模板是给用户拒绝好友请求时用的，可以定"
+#~ "义邮件主题和内容。"
+
+#~ msgid "Friend Request"
+#~ msgstr "好友请求"
+
+#~ msgid "Previous Page"
+#~ msgstr "上一页"
+
+#~ msgid "Friend"
+#~ msgstr "好友"
+
+#~ msgid "Avatar"
+#~ msgstr "头像"
+
+#~ msgid "View Blog"
+#~ msgstr "查看博客"
+
+#~ msgid "Remove"
+#~ msgstr "删除"
+
+#~ msgid "Your friends list is currently empty"
+#~ msgstr "你的好友列表目前是空的"
+
+#~ msgid "Quick Message"
+#~ msgstr "快捷信息"
+
+#~ msgid "Search by friends display name, username or email address"
+#~ msgstr "通过好友的姓名、用户名或邮箱进行搜索"
+
+#~ msgid "Show existing friends"
+#~ msgstr "显示已有好友"
+
+#~ msgid "Add"
+#~ msgstr "加为好友"
+
+#~ msgid "No pending Friend requests"
+#~ msgstr "没有待审的好友请求"
+
+#~ msgid ""
+#~ "This Email template is used when one user requests to be friends with "
+#~ "another user."
+#~ msgstr "这个邮件模板是用来给用户发送好友请求时用的"
+
+#~ msgid ""
+#~ "This Email template is used when a user receives a request from another "
+#~ "user to become friends. And the user approves the friend request."
+#~ msgstr ""
+#~ "这个邮件模板是当一个用户接收到其他用户的好友请求，用户同意请求时用的。"
+
+#~ msgid ""
+#~ "This Email template is used when a user receives a request from another "
+#~ "user to become friends. And the user reject the friend request."
+#~ msgstr ""
+#~ "这个邮件模板是当一个用户接收到其他用户的好友请求，用户拒绝请求时用的。"
+
+#~ msgid ""
+#~ "Instructions: Use the following replaceable tokens in your message. These "
+#~ "will be replaced with the real information for user, site, content, etc.. "
+#~ "Note all tokens are wrapped in square brackets."
+#~ msgstr ""
+#~ "说明：在信息中使用以下可用变量，它们将在邮件中被替换为真正的用户、网站、内"
+#~ "容 等。注意：所有的变量都要放在方括号[ ]中。"
+
+#~ msgid "The name of the sender's primary site"
+#~ msgstr "发件人的主站点的名称"
+
+#~ msgid "The URL of the sender's primary site"
+#~ msgstr "发件人的主站点的URL"
+
+#~ msgid "The user name requesting friendship."
+#~ msgstr "好友请求的用户名"
+
+#~ msgid "The user name being friended."
+#~ msgstr "好友的用户名"
+
+#~ msgid "The TO_USER primary site admin page for the Friend Request."
+#~ msgstr "好友请求的TO_USER主站点的管理页面"
+
+#~ msgid "Display"
+#~ msgstr "显示"
+
+#~ msgid "Mosaic"
+#~ msgstr "嵌套"
